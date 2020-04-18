@@ -1,0 +1,13 @@
+"""
+
+List of viable hotel to scrape in tripadvisor
+
+"""
+
+https://www.tripadvisor.com/Hotel_Review-g294260-d1022749-Reviews-The_Tides_Hotel_Boracay-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html
+
+ https://www.tripadvisor.com/Hotel_Review-g298573-d3964764-Reviews-Leez_Inn-Manila_Metro_Manila_Luzon.html
+ 
+ https://www.tripadvisor.com/Hotel_Review-g56943-d226686-Reviews-Bryce_Canyon_Pines-Bryce_Utah.html
+ 
+ 

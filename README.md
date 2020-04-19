@@ -1,1 +1,1 @@
-# GoTellHotel
+# GoTellHotels

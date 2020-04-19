@@ -39,6 +39,7 @@ class ParseTripAdvisor:
         self.check_response(url, response)
         # Get hotel name
         self.hotel_name = response.find('h1', id='HEADING').text
+
         # if self.ifHotel_Exist() == True:
         #     return
         # else:
@@ -105,3 +106,31 @@ class ParseTripAdvisor:
 
             results.append(self.info)
             # return # for test only - to stop after first review
+            
+    def parse_reviews(self, url, response):
+            self.check_response(url, response)
+            # get every review
+            for idx, review in enumerate(response.find_all('div', {'data-test-target': 'HR_CC_CARD'})):
+                # Get reviewer name
+                self.reviewer_name = review.find(
+                    'a', {'class': 'ui_header_link social-member-event-MemberEventOnObjectBlock__member--35-jC'}).text
+
+                # Get the body content of user review without clicking 'read more'
+                p = review.find('div', {'class': 'cPQsENeY'}).find('q')
+                self.review_body = ''
+                for child in p.children:
+                    if child.name == "span":
+                        self.review_body += child.text
+                    elif child.name == 'None':
+                        self.review_body += child.string.rstrip("\"\n ").lstrip("\"\n ")
+
+
+                self.info = {
+                    'hotel': self.hotel_name,
+                    'reviewer': self.reviewer_name,
+                    # 'review_title': review_title,
+                    'review': self.review_body
+                }
+
+                results.append(self.info)
+                # return # for test only - to stop after first review

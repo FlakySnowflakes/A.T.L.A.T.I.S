@@ -86,10 +86,3 @@ def negatives(x):
     if x['polarity'] < 0:
         return 'Negative'
     return ''
-
-# def Sentimental(x):
-#     if x['polarity'] > 0:
-#         return 'Positive'
-#     else:
-#         return 'Negative'
-    

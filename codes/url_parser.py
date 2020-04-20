@@ -14,17 +14,19 @@ class ParseTripAdvisor:
         self.num_reviews = 0
         self.reviewer_name = ''
         self.review_body = ''
+        self.address = ''
         self.info = {}
         self.r = None
+        self.check = bool
 
     def ifHotel_Exist(self):
         PATH = './' + self.hotel_name + '.csv'
         if os.path.isfile(PATH) and os.access(PATH, os.R_OK):
             print("File ", self.hotel_name, " exists and is readable for update")
-            return True
+            return self.check = True
         else:
             print("The file does not exist...\n", 'Creating new file...')
-            return False
+            return self.check = False
 
     def get_soup(self, url):
         s = requests.Session()
@@ -39,12 +41,14 @@ class ParseTripAdvisor:
         self.check_response(url, response)
         # Get hotel name
         self.hotel_name = response.find('h1', id='HEADING').text
-
-        # if self.ifHotel_Exist() == True:
-        #     return
-        # else:
-        #     pass
-        # get number of reviews
+        # Get hotel address
+        self.address = response.find('span', {
+                                     'class': 'public-business-listing-ContactInfo__ui_link--1_7Zp public-business-listing-ContactInfo__level_4--3JgmI'}).text
+        if self.check == True:
+            return
+        else:
+            pass
+        get number of reviews
         self.num_reviews = self.get_num_reviews(response)
         # Limit number of reviews to output
         self.limit_num_reviews()
@@ -57,7 +61,7 @@ class ParseTripAdvisor:
             url_ = url.format(offset)
             self.parse_reviews(url_, self.get_soup(url_))
             # return  # for test only - to stop after first page
-        return self.hotel_name
+        return
 
     def get_num_reviews(self, response):
         nr = response.find_all(
@@ -101,36 +105,12 @@ class ParseTripAdvisor:
                 'hotel': self.hotel_name,
                 'reviewer': self.reviewer_name,
                 # 'review_title': review_title,
-                'review': self.review_body
+                'review': self.review_body,
+                'address': self.address,
+                # 'city': self.city,
+                # 'state': self.state,
+                # 'country': self.country
             }
 
             results.append(self.info)
             # return # for test only - to stop after first review
-            
-    def parse_reviews(self, url, response):
-            self.check_response(url, response)
-            # get every review
-            for idx, review in enumerate(response.find_all('div', {'data-test-target': 'HR_CC_CARD'})):
-                # Get reviewer name
-                self.reviewer_name = review.find(
-                    'a', {'class': 'ui_header_link social-member-event-MemberEventOnObjectBlock__member--35-jC'}).text
-
-                # Get the body content of user review without clicking 'read more'
-                p = review.find('div', {'class': 'cPQsENeY'}).find('q')
-                self.review_body = ''
-                for child in p.children:
-                    if child.name == "span":
-                        self.review_body += child.text
-                    elif child.name == 'None':
-                        self.review_body += child.string.rstrip("\"\n ").lstrip("\"\n ")
-
-
-                self.info = {
-                    'hotel': self.hotel_name,
-                    'reviewer': self.reviewer_name,
-                    # 'review_title': review_title,
-                    'review': self.review_body
-                }
-
-                results.append(self.info)
-                # return # for test only - to stop after first review

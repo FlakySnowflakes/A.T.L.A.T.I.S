@@ -1,0 +1,28 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasay,Midas Hotel and Casino,Wen B,The location of the hotel is both ideal and unideal.,0.9,hotel,Positive,NULL
+1,Pasay,Midas Hotel and Casino,Wen B,"There was also no parking facility, although there was free valet parking for hotel guests.",0.4,hotel,Positive,NULL
+2,Pasay,Midas Hotel and Casino,wanderlust_ip,The hotel rooms are good but what sets it apart from other hotels is the genuine friendliness of the staff.,0.55,hotel rooms,Positive,NULL
+3,Pasay,Midas Hotel and Casino,Madonna Menla,"The first time we tried this one, we were transferred to another hotel without any of their staff informing us before we arrived there.",0.25,hotel staff,Positive,NULL
+4,Pasay,Midas Hotel and Casino,MoolooSwampy,"The room was generally well-appointed, though power sockets were not always in the easiest places to use.",0.05,room,Positive,NULL
+5,Pasay,Midas Hotel and Casino,Rose D,MRC cardholders booked at an executive room had access to the Sunset Lounge for free merienda cena 3-6pm but can stay past 10 p.m.,0.075,room,Positive,NULL
+6,Pasay,Midas Hotel and Casino,kythes,The room was excellent (I booked the deluxe 1 bedroom suite).,0.8,room,Positive,NULL
+7,Pasay,Midas Hotel and Casino,Rose D,The room was cozy with a balcony.,-0.2,room,NULL,Negative
+8,Pasay,Midas Hotel and Casino,Gilnela V.,"Sadly, we didn't get a room with a nice view, but regardless, it's a relaxing room.",0.05,room,Positive,NULL
+9,Pasay,Midas Hotel and Casino,Wen B,"The room was beautiful and spacious - with a luxurious vanity, very wide nightstands, and a couch area.",0.375,room,Positive,NULL
+10,Pasay,Midas Hotel and Casino,unirobols,"The room was very clean, elegant and comfortable.",0.422,room,Positive,NULL
+11,Pasay,Midas Hotel and Casino,justinbentley1,"If possible get room not facing major road way, very noisy.",0.031,room,Positive,NULL
+12,Pasay,Midas Hotel and Casino,kythes,"Been an hour waiting at the lobby for the room to be available, a bit disappointed.",-0.175,room,NULL,Negative
+13,Pasay,Midas Hotel and Casino,Wen B,We tried out room service and enjoyed the food.,0.5,room service,Positive,NULL
+14,Pasay,Midas Hotel and Casino,PNGTouring05,The room was good and the service was always cordial.,0.7,room service,Positive,NULL
+15,Pasay,Midas Hotel and Casino,Amy S,"(6) The hallways leading to the rooms are dark and again, musty (7) Cabinets, beds, furnitures, lampshades and sinks are old and broken.…",-0.275,rooms,NULL,Negative
+16,Pasay,Midas Hotel and Casino,Wen B,They do offer shuttle service to the Mall of Asia (MOA) at certain hours.,0.214,service,Positive,NULL
+17,Pasay,Midas Hotel and Casino,Chris,"The service is good, - very good considering the price.",0.7,service,Positive,NULL
+18,Pasay,Midas Hotel and Casino,Tin_Abrea,Took too long for valet service though.,-0.05,service,NULL,Negative
+19,Pasay,Midas Hotel and Casino,wanderlust_ip,I'd like to commend richard from bell service and the other guys there for being always ready to help.,0.2,service,Positive,NULL
+20,Pasay,Midas Hotel and Casino,kevkat2424,The taxi service in the Philippines is kind of hard to obtain.,0.154,service,Positive,NULL
+21,Pasay,Midas Hotel and Casino,Abner V. Pineda,I am also commending your front desk team/concierge for the quick and reliable service that was given to us.,0.333,service,Positive,NULL
+22,Pasay,Midas Hotel and Casino,hankwihyun,service was good.,0.7,service,Positive,NULL
+23,Pasay,Midas Hotel and Casino,MoolooSwampy,A pleasant stay in central Manila with friendly staff who were always keen to assist.,0.369,staff,Positive,NULL
+24,Pasay,Midas Hotel and Casino,sugraceriver,Service staff are most welcoming and genuinely caring in midas.,0.4,staff,Positive,NULL
+25,Pasay,Midas Hotel and Casino,Trina Moore,Rooms were large and well equipped with friendly staff throughout the hotel.,0.295,staff,Positive,NULL
+26,Pasay,Midas Hotel and Casino,sugraceriver,I also notice the the HK staff clean fast but do not vacuum the carpet or just does not feel it.,0.186,staff,Positive,NULL

@@ -1,0 +1,40 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Manila,Leez Inn,Mr SHAKA,"For the reasonable price this hotel charges, it is pretty hard to find something comparable in malate.",0.053,hotel,Positive,NULL
+1,Manila,Leez Inn,Manuel L,Worst hotel ever.,-1.0,hotel,NULL,Negative
+2,Manila,Leez Inn,Irene Fe T,"The hotel itself is near the city so you will be able to go to anywhere like luneta park, ocean park etc.",0.3,hotel,Positive,NULL
+3,Manila,Leez Inn,Manuel L,We complained by our tour company 4 weeks ago but the hotel has not answered yet..,-0.3,hotel,NULL,Negative
+4,Manila,Leez Inn,joy,a hotel you would love to stay in.,0.5,hotel,Positive,NULL
+5,Manila,Leez Inn,mpp,this hotel is by far the cleanest among those ive checked in around malate area.,0.1,hotel,Positive,NULL
+6,Manila,Leez Inn,mpp,the hotel doesnt have a lift but the staffs are very much willing to help you…,0.25,hotel,Positive,NULL
+7,Manila,Leez Inn,Mr SHAKA,"This is a good clean hotel that has nice comfortable room with good bed, good shower, cable television and a mini fridge.",0.578,hotel room,Positive,NULL
+8,Manila,Leez Inn,Flongzkie,Complete with basic amenities for a hotel room (e.g.,0.05,hotel room,Positive,NULL
+9,Manila,Leez Inn,Pathfinder198630,"We highly recommend this hotel to everyone,friendly staff ,excellent in taking care of us ,excellent in cleanliness and easy access in transportation.",0.594,hotel staff,Positive,NULL
+10,Manila,Leez Inn,Yan Y,The place is accessible to public transport especially those with appointments in Malate and nearby places.,0.125,place,Positive,NULL
+11,Manila,Leez Inn,Irene Fe T,The place is clean and neat.,0.367,place,Positive,NULL
+12,Manila,Leez Inn,Irene Fe T,But all in all its a good place to stay and very convinient.,0.7,place,Positive,NULL
+13,Manila,Leez Inn,Krisa D,Its a great place to stay whether ur solo or with someone.,0.8,place,Positive,NULL
+14,Manila,Leez Inn,Krisa D,I highly recommend this place to everyone specially tourists.,0.259,place,Positive,NULL
+15,Manila,Leez Inn,rochel k,The place is accessible for public transport.,0.188,place,Positive,NULL
+16,Manila,Leez Inn,Yan Y,The place is clean and the staff are accomodating.,0.367,place staff,Positive,NULL
+17,Manila,Leez Inn,Manuel L,Okay after that we asked them if we could book 1 more single room for the 5.,0.214,room,Positive,NULL
+18,Manila,Leez Inn,Love Olarte,"They have nice room and wash room, so much worth it the pay.",0.45,room,Positive,NULL
+19,Manila,Leez Inn,Rowina J,The room was clean and comfortable.,0.383,room,Positive,NULL
+20,Manila,Leez Inn,Sophia,"The room was larger than i expected, service was great, staffs were friendly.",0.269,room,Positive,NULL
+21,Manila,Leez Inn,Terry B,The room was okay.,0.5,room,Positive,NULL
+22,Manila,Leez Inn,One on Juan Vlog,A 10-15 minutes walk from Taft avenue.The room was nicely arranged and clean.,0.483,room,Positive,NULL
+23,Manila,Leez Inn,JMPEkhel,The guard very approachable especially jenna and Stephanie the two clean my room before i checked in.,0.183,room,Positive,NULL
+24,Manila,Leez Inn,gabven,"Clean, spacious room with ref and kettle.",0.367,room,Positive,NULL
+25,Manila,Leez Inn,An M,the room is clean and the bed is comfortable.,0.383,room,Positive,NULL
+26,Manila,Leez Inn,superstar8888,"the room was very dirty, the toilet not cleaned either.",-0.317,room,NULL,Negative
+27,Manila,Leez Inn,An M,but it did finish early in the evening so if you are not in the room until late night it should not be a bother.,-0.1,room,NULL,Negative
+28,Manila,Leez Inn,Jerry H,You can request a room on the first floor but if not available you will be climbing steps.,0.325,room,Positive,NULL
+29,Manila,Leez Inn,Joselyn,The rooms are really clean and comfortable.,0.383,rooms,Positive,NULL
+30,Manila,Leez Inn,Jerry H,"Euro style hotel, rooms were well designed, very recent and worked just great.",0.4,rooms,Positive,NULL
+31,Manila,Leez Inn,Manuel L,We booked 2 rooms (1 double and 1 triple room) They let us sleep on 4 very small single beds for 5 people.,-0.107,rooms,NULL,Negative
+32,Manila,Leez Inn,gabven,"The rooms are clean, beds are comfortable and toilets are clean as well (small but ok).",0.225,rooms,Positive,NULL
+33,Manila,Leez Inn,rochel k,The Staff are accomodating and theirs rooms are clean.,0.367,rooms,Positive,NULL
+34,Manila,Leez Inn,rochel k,The only thing is they don't have an elevator but their staff is willing to help with your luggage.,0.25,staff,Positive,NULL
+35,Manila,Leez Inn,JMPEkhel,"Helpful staff and comfortable room, clean , neat.",0.383,staff,Positive,NULL
+36,Manila,Leez Inn,Irene Fe T,The entire time that we stayed there staff are very friendly and very helpful.,0.188,staff,Positive,NULL
+37,Manila,Leez Inn,Love Olarte,"The staff and the guard are kind, presentable and accommodating..",0.6,staff,Positive,NULL
+38,Manila,Leez Inn,An M,staff were friendly and helpful in carrying your luggage.,0.375,staff,Positive,NULL

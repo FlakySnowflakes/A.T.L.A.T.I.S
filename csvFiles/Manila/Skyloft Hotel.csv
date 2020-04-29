@@ -1,0 +1,31 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Manila,Skyloft Hotel,dcsmpng,The right elevator was already not working when I got there.,0.286,elevator,Positive,NULL
+1,Manila,Skyloft Hotel,Jeanne Krista Cruz,Sayang lang wala food service tsaka medyo nakakaliyo ang elevator pero good choice na dito kami nagcheck in.,0.7,elevator,Positive,NULL
+2,Manila,Skyloft Hotel,Joiz V,"When I booked the hotel and paid for it days before my guest arrived, I mentioned to note a sensitive guest as those are foreigners.",0.1,hotel,Positive,NULL
+3,Manila,Skyloft Hotel,Joiz V,"Otherwise, hotel location is good.",0.7,hotel,Positive,NULL
+4,Manila,Skyloft Hotel,cpcaluya,"The receptionist said since the hotel is new, television sets have not yet arrived.",0.136,hotel,Positive,NULL
+5,Manila,Skyloft Hotel,RRGT,We were about to stay when I noticed in the booking confirmation that the hotel did not have late check in facilities.,-0.3,hotel,NULL,Negative
+6,Manila,Skyloft Hotel,RRGT,We were running late and with the expected traffic I was worried we'd get to the hotel and not be able to check in.,0.033,hotel,Positive,NULL
+7,Manila,Skyloft Hotel,Richee Genesis T,I dont know how this hotel managed by red doorz has a very high rating online when it has a very poor service.,-0.08,hotel,NULL,Negative
+8,Manila,Skyloft Hotel,john Cyril,but over all nice hotel i will stay again.,0.6,hotel,Positive,NULL
+9,Manila,Skyloft Hotel,Hazelle F,People were also accommodating she said it's a good place to stay.,0.7,place,Positive,NULL
+10,Manila,Skyloft Hotel,cpcaluya,The only good thing about this place is its location.,0.7,place,Positive,NULL
+11,Manila,Skyloft Hotel,Richee Genesis T,The place was ideal bec.of the loc but of poor service,0.25,place,Positive,NULL
+12,Manila,Skyloft Hotel,Jeanne Krista Cruz,The place is great and relaxing.,0.8,place,Positive,NULL
+13,Manila,Skyloft Hotel,Arvy Grace A,"The place is clean, very relaxing and comfortable...",0.383,place,Positive,NULL
+14,Manila,Skyloft Hotel,293joy,We want to request change of room due to lots of cock roaches.,-0.125,room,NULL,Negative
+15,Manila,Skyloft Hotel,cpcaluya,"When I booked my room for 2 nights, the website included in its amenities that the rooms have flat screen tvs.",-0.025,room,NULL,Negative
+16,Manila,Skyloft Hotel,Jade Amelia,"The room is spacious and well tidy, I liked the LED light on the mirror inside the comfort room.",0.533,room,Positive,NULL
+17,Manila,Skyloft Hotel,Bong Fernandez,2:00pm was suppose to be our check in time yet the room was not yet ready.,0.2,room,Positive,NULL
+18,Manila,Skyloft Hotel,Harvey,"After calling several times, they fixed the power and then advised to transfer again to the original room the next day.",0.119,room,Positive,NULL
+19,Manila,Skyloft Hotel,293joy,Phone inside the room is useless because no one answered our call from their front desk area.,-0.5,room,NULL,Negative
+20,Manila,Skyloft Hotel,Mim912,"Lastly, the room as pictured on their sight is quite unrealistic.",-0.25,room,NULL,Negative
+21,Manila,Skyloft Hotel,Aydrei Kyle,The room is nice.,0.6,room,Positive,NULL
+22,Manila,Skyloft Hotel,Princess Cather... A,The room is nice but there's no chair that can be used if you want to sit and study.,0.6,room,Positive,NULL
+23,Manila,Skyloft Hotel,Jewelle T,and the room is boring.,-1.0,room,NULL,Negative
+24,Manila,Skyloft Hotel,Jinky,"Our room is clean and have a great view overlooking Manila, bathroom is elegant and clean.",0.508,room,Positive,NULL
+25,Manila,Skyloft Hotel,John Ross C,So me and my partner go back to our room to take some warm water since there is a heater inside the shower room.,0.6,room,Positive,NULL
+26,Manila,Skyloft Hotel,Majah J,"The room (Deluxe Queen) was “clean”— floor was sparkly, sheets white.",0.322,room floor,Positive,NULL
+27,Manila,Skyloft Hotel,Harvey,We were transferred to another room but then the new room has no power.,0.136,room room,Positive,NULL
+28,Manila,Skyloft Hotel,john Cyril,the room was very comfortable to sleep il stay for 3 nights they dont offer to clean my room or just pick up the garbage.,0.383,room room,Positive,NULL
+29,Manila,Skyloft Hotel,John Ross C,"The room experience was excellent, special the interior design of the room and the bath room, but there is no  HOSE FOR TOILET BOWL.",0.441,room room,Positive,NULL

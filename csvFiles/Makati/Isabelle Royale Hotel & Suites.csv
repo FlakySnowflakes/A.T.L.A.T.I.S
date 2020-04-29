@@ -1,0 +1,48 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Makati,Isabelle Royale Hotel & Suites,theGtravels,Their free breakfast is delicious.,0.7,breakfast,Positive,NULL
+1,Makati,Isabelle Royale Hotel & Suites,Patrik L,A simple but ok breakfast was included and served at the top floor.,0.333,breakfast,Positive,NULL
+2,Makati,Isabelle Royale Hotel & Suites,Mizmaia,"Elevators take forever, breakfast isn't worth having, the bathrooms are stinky, The list goes on...",0.3,breakfast,Positive,NULL
+3,Makati,Isabelle Royale Hotel & Suites,Alpeace,"The free breakfast was served luke warm, and no tv remote initially.",0.225,breakfast,Positive,NULL
+4,Makati,Isabelle Royale Hotel & Suites,jencam83,The breakfast however was disgusting!,-1.0,breakfast,NULL,Negative
+5,Makati,Isabelle Royale Hotel & Suites,Inzanedonato,"the breakfast was delivered late, no utensils, and coffee was not given.",-0.3,breakfast,NULL,Negative
+6,Makati,Isabelle Royale Hotel & Suites,Inzanedonato,i stayed at the hotel yesterday and the service was bad though the location is great.,0.05,hotel,Positive,NULL
+7,Makati,Isabelle Royale Hotel & Suites,GaaurKumar,"I stayed at this hotel with my friend, the service is really  excellent...24 hr.",1.0,hotel,Positive,NULL
+8,Makati,Isabelle Royale Hotel & Suites,jencam83,The taxi driver was unsure where the hotel was so after driving round for an hour and a half we eventually found the hotel.,-0.183,hotel,NULL,Negative
+9,Makati,Isabelle Royale Hotel & Suites,Denis N,I find the hotel PERFECT (I mean for the price)Nobody bothers you it felts like you are at home.,0.344,hotel,Positive,NULL
+10,Makati,Isabelle Royale Hotel & Suites,Michael-de'Shaw... S,This hotel is a load capturing toilet!,-0.033,hotel,NULL,Negative
+11,Makati,Isabelle Royale Hotel & Suites,Tomaz G,"The hotel also possess a large elevator, but you do need some patience for its use, because is very slow.",-0.043,hotel,NULL,Negative
+12,Makati,Isabelle Royale Hotel & Suites,randyman050,I stayed here a couple times in Oct. and this hotel is not for the high maintenance traveler.,0.16,hotel,Positive,NULL
+13,Makati,Isabelle Royale Hotel & Suites,fayblife,the hotel was okay really just for a place to stay.,0.5,hotel,Positive,NULL
+14,Makati,Isabelle Royale Hotel & Suites,Mizmaia,I would like to say there was something good about this hotel but really saying anything nice would be a stretch from the truth.,0.65,hotel,Positive,NULL
+15,Makati,Isabelle Royale Hotel & Suites,Georgi Mateev,This hotel is quite close to the airport and they also provide a free transfer.,0.4,hotel,Positive,NULL
+16,Makati,Isabelle Royale Hotel & Suites,danbarnes56,"The hotel has 24hr security and our door had 4 separate locks, so at least we felt safe in a pretty crazy city!",-0.037,hotel,NULL,Negative
+17,Makati,Isabelle Royale Hotel & Suites,randyman050,Not a luxury hotel but fine for savvy budget traveler.,0.417,hotel,Positive,NULL
+18,Makati,Isabelle Royale Hotel & Suites,Lobeli B,so for this hotel please kindly improve the facilities of your hotel thanks...  Ayah Travelers,0.4,hotel hotel,Positive,NULL
+19,Makati,Isabelle Royale Hotel & Suites,danbarnes56,The hotel staff were a mixture of polite and then suddenly very abrupt and rude.,-0.212,hotel staff,NULL,Negative
+20,Makati,Isabelle Royale Hotel & Suites,jhona u,"The room has cable, fridge, hot and cold shower Buy no thrash bins anywhere.",-0.175,room,NULL,Negative
+21,Makati,Isabelle Royale Hotel & Suites,danbarnes56,"The room did have a confusing kitchen area with kitchen units, a worktop and a fitted extractor hood - but no grill or cooker?",-0.3,room,NULL,Negative
+22,Makati,Isabelle Royale Hotel & Suites,Inzanedonato,no provisions in the room and the bed looks ready to be dumped.,0.2,room,Positive,NULL
+23,Makati,Isabelle Royale Hotel & Suites,emad1900,- bad room serving in term of sweep and wipe the floor of the room.,-0.7,room,NULL,Negative
+24,Makati,Isabelle Royale Hotel & Suites,Alpeace,"we had a room with a balcony, which was a nice bonus.",0.6,room,Positive,NULL
+25,Makati,Isabelle Royale Hotel & Suites,Michael-de'Shaw... S,This place reminded me of the SRO (single room occupancy)s in New York City that are used as shelters for homeless people.,0.032,room,Positive,NULL
+26,Makati,Isabelle Royale Hotel & Suites,randyman050,Breakfast was fine but I went up to dining room on 10th floor.,0.417,room,Positive,NULL
+27,Makati,Isabelle Royale Hotel & Suites,KatrineG777,"The room was basic, but clean.",0.183,room,Positive,NULL
+28,Makati,Isabelle Royale Hotel & Suites,Patrik L,The room was clean and had a nice view over the Makati skyline at night.,0.483,room,Positive,NULL
+29,Makati,Isabelle Royale Hotel & Suites,Tomaz G,"A room for two people was very small, we had a bed on the top of the kitchen with a very steep stairs.",0.125,room,Positive,NULL
+30,Makati,Isabelle Royale Hotel & Suites,TomerShalmon,"The reception is confusing, becauseit looks nice but when you enter the room you see that the toilet are very old and unclean.",0.089,room,Positive,NULL
+31,Makati,Isabelle Royale Hotel & Suites,emad1900,I stayed  in room number 507 and I booked in this hotel based on my previous positive feedback when I stayed there before.,0.03,room hotel,Positive,NULL
+32,Makati,Isabelle Royale Hotel & Suites,Jadyan3,"Halls and room could use more lighting, room furniture very old, worn, and annoyingly squeaky.",-0.8,room room,NULL,Negative
+33,Makati,Isabelle Royale Hotel & Suites,GaaurKumar,"front desk, housekeeping staff, even security staff all are very friendly and helpful.",0.375,staff,Positive,NULL
+34,Makati,Isabelle Royale Hotel & Suites,Chiquita_999,I only stayed one night here but the staff were friendly and helpful.,0.375,staff,Positive,NULL
+35,Makati,Isabelle Royale Hotel & Suites,Jadyan3,Have friendly and helpful staff though.,0.375,staff,Positive,NULL
+36,Makati,Isabelle Royale Hotel & Suites,KatrineG777,Sour staff all over.,-0.15,staff,NULL,Negative
+37,Makati,Isabelle Royale Hotel & Suites,Patrik L,The staff was friendly and helpful.,0.375,staff,Positive,NULL
+38,Makati,Isabelle Royale Hotel & Suites,TomerShalmon,"More than that, the staff don't help you with nothing if you need a help, and sometimes even tell you wrong answers to your questions.",-0.5,staff,NULL,Negative
+39,Makati,Isabelle Royale Hotel & Suites,jencam83,The staff at the hotel were friendly and advised us that the taxi should have been 300 pesos at the most!,0.375,staff hotel,Positive,NULL
+40,Makati,Isabelle Royale Hotel & Suites,emad1900,- surcharge wifi (before it was free).,0.4,wifi,Positive,NULL
+41,Makati,Isabelle Royale Hotel & Suites,Alpeace,Free wifi was NOT available in rooms,0.4,wifi,Positive,NULL
+42,Makati,Isabelle Royale Hotel & Suites,Michael-de'Shaw... S,When you arrive the free wifi internet is in the lobby only.,0.4,wifi,Positive,NULL
+43,Makati,Isabelle Royale Hotel & Suites,Jay-R E,There is only free wifi in the reception area.,0.4,wifi,Positive,NULL
+44,Makati,Isabelle Royale Hotel & Suites,Jay-R E,"Down side was that there was no free wifi in room, you have to pay for it.",0.4,wifi,Positive,NULL
+45,Makati,Isabelle Royale Hotel & Suites,KatrineG777,Free wifi only in reception.,0.4,wifi,Positive,NULL
+46,Makati,Isabelle Royale Hotel & Suites,Valeriia K,"-no wifi in room, very slow wifi in smelly lobby.",-0.3,wifi wifi,NULL,Negative

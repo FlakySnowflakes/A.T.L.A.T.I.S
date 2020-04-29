@@ -1,0 +1,43 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Quezon City,Hotel Rembrandt,John Ray L,"The free breakfast is a buffet, there’s an egg station and the spread includes your usual morning comfort food.",0.075,breakfast,Positive,NULL
+1,Quezon City,Hotel Rembrandt,Katie12dml,What just really relieved me was the very good breakfast selections and it was all delicious.,0.85,breakfast,Positive,NULL
+2,Quezon City,Hotel Rembrandt,xeth2016,"the breakfast buffet is truly great...   you will enjoy each dishes served,",0.6,breakfast,Positive,NULL
+3,Quezon City,Hotel Rembrandt,mae,"And their breakfast buffet was nice,the rooms are old but still nice and clean.",0.522,breakfast,Positive,NULL
+4,Quezon City,Hotel Rembrandt,Adam B,"The breakfast is very, very good.",0.7,breakfast,Positive,NULL
+5,Quezon City,Hotel Rembrandt,Jose A,The breakfast was delicious and very filling.,1.0,breakfast,Positive,NULL
+6,Quezon City,Hotel Rembrandt,Charles D,For its price you can’t complain because you’ll enjoy the breakfast buffet.,0.4,breakfast,Positive,NULL
+7,Quezon City,Hotel Rembrandt,iey2017,"And their breakfast buffet was nice, although you have to pay an upgrade for this.",0.6,breakfast,Positive,NULL
+8,Quezon City,Hotel Rembrandt,Michael Jorge P,The hotel is stategic because of its location which is near many restaurants and is accessible via local transportation.,0.244,hotel,Positive,NULL
+9,Quezon City,Hotel Rembrandt,majid z,"Hotel was very good and stuff very friendly and nice , hotel very clean and nice , and excellent house keepers.",0.607,hotel,Positive,NULL
+10,Quezon City,Hotel Rembrandt,Rizal P,I was expecting an old hotel but in my surprise its better than the reviews I read.,0.5,hotel,Positive,NULL
+11,Quezon City,Hotel Rembrandt,peter s,"This is all I could say, otherwise the hotel has all the facilities and also clean.",0.367,hotel,Positive,NULL
+12,Quezon City,Hotel Rembrandt,Adam B,"The hotel is very conveniently located near restaurants and is in a very safe, walkable area.",0.3,hotel,Positive,NULL
+13,Quezon City,Hotel Rembrandt,Benedict Uy,"Also, parking is around the hotel but I feel it is quite limited.",-0.071,hotel,NULL,Negative
+14,Quezon City,Hotel Rembrandt,Charles D,A great hotel for its price.,0.8,hotel,Positive,NULL
+15,Quezon City,Hotel Rembrandt,xeth2016,The hotel is a good place to stay coz  it  is nice and comfy.,0.65,hotel place,Positive,NULL
+16,Quezon City,Hotel Rembrandt,josephus009,The place is super... a must try :),0.333,place,Positive,NULL
+17,Quezon City,Hotel Rembrandt,Wanderlust_on_the_go,Such a waste since the place is too near ABS and other great places in QC,0.233,place,Positive,NULL
+18,Quezon City,Hotel Rembrandt,josephus009,"If you are looking for best wine at reasonable price ""Tapas and Wines in Hotel Rembrandt"" is the best place in town.",0.733,place,Positive,NULL
+19,Quezon City,Hotel Rembrandt,HaLc57,Everything about this place was satisfying.,0.5,place,Positive,NULL
+20,Quezon City,Hotel Rembrandt,celestine,A quiet and peaceful place to stay it for a vacation.,0.125,place,Positive,NULL
+21,Quezon City,Hotel Rembrandt,alessia2017,The place is near ABS-CBN (TV station) and right beside the hotel is TGIF restaurant.,0.193,place hotel,Positive,NULL
+22,Quezon City,Hotel Rembrandt,iey2017,Our room was ok although it looks too dim with only few lights.,0.333,room,Positive,NULL
+23,Quezon City,Hotel Rembrandt,Wanderlust_on_the_go,I'm sure I asked for a nonsmoking but the whole floor and our room smells.,0.35,room,Positive,NULL
+24,Quezon City,Hotel Rembrandt,alessia2017,"Upon check in, I got a room upgrade from standard to deluxe.",0.3,room,Positive,NULL
+25,Quezon City,Hotel Rembrandt,Benedict Uy,I think it goes with the old design and the poor facilities inside the room that makes it look poor.,-0.4,room,NULL,Negative
+26,Quezon City,Hotel Rembrandt,MAFLORAIDAGLANG,Its better that they will add lights for a bright room especially when at night.,0.4,room,Positive,NULL
+27,Quezon City,Hotel Rembrandt,MAFLORAIDAGLANG,One is in the entrance and one lamp shade that makes the room dim.,0.1,room,Positive,NULL
+28,Quezon City,Hotel Rembrandt,MAFLORAIDAGLANG,I like the space of the room but the lights are not convenient.,0.4,room,Positive,NULL
+29,Quezon City,Hotel Rembrandt,Adam B,Our room was clean.,0.367,room,Positive,NULL
+30,Quezon City,Hotel Rembrandt,alessia2017,The room was large and the air conditioner worked well.,0.214,room,Positive,NULL
+31,Quezon City,Hotel Rembrandt,travellerheartAU,The rooms are damp and dark - our room had no ceiling lights and very dim lighting with only 2 lamps providing light.,0.188,room,Positive,NULL
+32,Quezon City,Hotel Rembrandt,Basil D,"After waiting for almost an hour to get to her room, her stay in her room was terrible.",-1.0,room,NULL,Negative
+33,Quezon City,Hotel Rembrandt,Basil D,They took a very long time to give my wife her room just because of this issue.,-0.05,room,NULL,Negative
+34,Quezon City,Hotel Rembrandt,Rizal P,* The room is carpeted although its old but still nice and clean.,0.483,room,Positive,NULL
+35,Quezon City,Hotel Rembrandt,Katie12dml,"I was really disappointed with the room, the hallway going to the room really smell old and carpet smell bad.",-0.725,room,NULL,Negative
+36,Quezon City,Hotel Rembrandt,Adam B,"The staff is very friendly, from checkin through to checkout.",0.375,staff,Positive,NULL
+37,Quezon City,Hotel Rembrandt,alessia2017,The staff were friendly and accommodating.,0.375,staff,Positive,NULL
+38,Quezon City,Hotel Rembrandt,Charles D,I commend the friendly staff as well.,0.375,staff,Positive,NULL
+39,Quezon City,Hotel Rembrandt,EJ S,"The staff are friendly and attentive, especially the ones assigned at The Lobby during breakfast.",0.258,staff,Positive,NULL
+40,Quezon City,Hotel Rembrandt,celestine,"I really enjoy my stay here, The staff was friendly and easy to approach them.",0.403,staff,Positive,NULL
+41,Quezon City,Hotel Rembrandt,aussieallan,"The quality of staff attention, food, cleanliness of room and dining are all what I need after a long day's work.",-0.05,staff room,NULL,Negative

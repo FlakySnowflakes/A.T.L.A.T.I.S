@@ -1,0 +1,37 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasig,Millenia Suites Ortigas,joniad1992,This hotel is highly…,0.16,hotel,Positive,NULL
+1,Pasig,Millenia Suites Ortigas,3allystar0824,"For the same rate, you could book a better hotel than this one.",0.5,hotel,Positive,NULL
+2,Pasig,Millenia Suites Ortigas,joniad1992,Moreover the hotel is very near several malls and shopping areas.,0.05,hotel,Positive,NULL
+3,Pasig,Millenia Suites Ortigas,Mr SHAKA,The hotel is located in a good position close to mega mall and cbd.,0.7,hotel,Positive,NULL
+4,Pasig,Millenia Suites Ortigas,Lester N,Service flash dial to front-desk and hotel service is not available since there is a change on numbers and you have to add number 8 first.,0.325,hotel,Positive,NULL
+5,Pasig,Millenia Suites Ortigas,paulrodriquez,"The other good point is that it is close to local shops, buses and you can walk to Shangria hotel and the main SM Shopping Mall.",0.289,hotel,Positive,NULL
+6,Pasig,Millenia Suites Ortigas,paulrodriquez,The hotel has a swimming pool and a small fitness center at the top.,0.05,hotel,Positive,NULL
+7,Pasig,Millenia Suites Ortigas,sasher_11,Very nice hotel although rooms are a bit basic.,0.3,hotel rooms,Positive,NULL
+8,Pasig,Millenia Suites Ortigas,joniad1992,"Special mention goes to the hotel staff who were very courteous and polite , always smiling and very helpful.",0.479,hotel staff,Positive,NULL
+9,Pasig,Millenia Suites Ortigas,Joane C,"But the place is overall good, cheapest in Ortigas, accessible to landmarks, esp Korean convenience store.",0.358,place,Positive,NULL
+10,Pasig,Millenia Suites Ortigas,Kyle Irvin,the place is so worth it.,0.3,place,Positive,NULL
+11,Pasig,Millenia Suites Ortigas,TheOnLookingGuy,"The place was conveniently near restaurants, cafeterias, and convenience stores.",0.1,place,Positive,NULL
+12,Pasig,Millenia Suites Ortigas,Lanz Cabrera,The place looks dark and gloomy - like a scary movie film.,-0.325,place,NULL,Negative
+13,Pasig,Millenia Suites Ortigas,paulrodriquez,The room was clean with adequate air conditioning.,0.35,room,Positive,NULL
+14,Pasig,Millenia Suites Ortigas,Lanz Cabrera,It has one room with a Queen size bed and two single beds in the living area.,-0.071,room,NULL,Negative
+15,Pasig,Millenia Suites Ortigas,David Simon R,"The room relatively was cool, the beds and the carpets were clean.",0.358,room,Positive,NULL
+16,Pasig,Millenia Suites Ortigas,David Simon R,The room was good for 2 on paper though I managed to sneak in 2 of my friends in the area.,0.7,room,Positive,NULL
+17,Pasig,Millenia Suites Ortigas,CAS,The location is good and the room was spacious.,0.7,room,Positive,NULL
+18,Pasig,Millenia Suites Ortigas,Lanz Cabrera,"Overall, you pay for one room thats good for four adults!",0.267,room,Positive,NULL
+19,Pasig,Millenia Suites Ortigas,Reignified,Also duting my stay the telephone was not working so it was hard to contact  the room service.,-0.292,room,NULL,Negative
+20,Pasig,Millenia Suites Ortigas,Reignified,"But the room is small, did not meet my expectation.",-0.25,room,NULL,Negative
+21,Pasig,Millenia Suites Ortigas,Bea,After all of that I was told the room is still not ready and they need more time to prepare the room.,0.2,room,Positive,NULL
+22,Pasig,Millenia Suites Ortigas,jham,"It was a good experience and the room is family-oriented, great to spend with family.",0.75,room,Positive,NULL
+23,Pasig,Millenia Suites Ortigas,Kimmy,The room given to us was not good.,0.7,room,Positive,NULL
+24,Pasig,Millenia Suites Ortigas,Kimmy,What makes us go back is the amazing view from the 30th and 31st floor where our room is.,0.6,room,Positive,NULL
+25,Pasig,Millenia Suites Ortigas,Melanie C,"Our stay was very pleasant, room was clean and comfortable.",0.5,room,Positive,NULL
+26,Pasig,Millenia Suites Ortigas,Mayrell,When I got in to my room I was surprised when I didn't see any toiletries or bathroom amenities.,0.1,room,Positive,NULL
+27,Pasig,Millenia Suites Ortigas,Mr SHAKA,The view of ortigas from the room is amazing especially at night time.,0.3,room,Positive,NULL
+28,Pasig,Millenia Suites Ortigas,Lester N,"Room is spaceous, check-in procedure is fast, room is already cleaned so no need to wait for awhile.",0.2,room,Positive,NULL
+29,Pasig,Millenia Suites Ortigas,Lanz Cabrera,It has cool white lights in the living and bed rooms but not enough.,0.188,rooms,Positive,NULL
+30,Pasig,Millenia Suites Ortigas,MercyReyes888,"Also, they have game rooms with Billiards table, table tennis, kids play with only…",-0.4,rooms,NULL,Negative
+31,Pasig,Millenia Suites Ortigas,Reignified,All of the staff are very accommodating and friendly.,0.375,staff,Positive,NULL
+32,Pasig,Millenia Suites Ortigas,Reignified,I did not complain as the staff are really great and helpful.,0.8,staff,Positive,NULL
+33,Pasig,Millenia Suites Ortigas,3allystar0824,"Hallways are messy, and some of the staff talks really loud in the hallways.",-0.05,staff,NULL,Negative
+34,Pasig,Millenia Suites Ortigas,jham,The staff there are nice.,0.6,staff,Positive,NULL
+35,Pasig,Millenia Suites Ortigas,Mayrell,"Luckily, one of the house keeping staff cleaned my room provided me bathroom amenities.",0.333,staff room,Positive,NULL

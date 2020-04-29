@@ -1,0 +1,40 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasay,Holiday Inn Express Manila Newport City,Brando M,Easy to check-in and close to airport with a great Shuttle service.,0.617,airport,Positive,NULL
+1,Pasay,Holiday Inn Express Manila Newport City,Ari a,Resorts world providing free airport shuttles and close proximity to Runway Manila which is a walkway to the terminal.,0.4,airport,Positive,NULL
+2,Pasay,Holiday Inn Express Manila Newport City,Leena T,"They have free airport bus, but only to terminals 1,2 and 3.",0.4,airport,Positive,NULL
+3,Pasay,Holiday Inn Express Manila Newport City,kiwitripper64,"We arrived into Manila in the early evening, got through he airport and went on search of the Resort World Shuttle.",0.1,airport,Positive,NULL
+4,Pasay,Holiday Inn Express Manila Newport City,Steven C,It does provide free airport shuttle…,0.4,airport,Positive,NULL
+5,Pasay,Holiday Inn Express Manila Newport City,F B,Worst experience of airport hotel all around the world,-1.0,airport hotel,NULL,Negative
+6,Pasay,Holiday Inn Express Manila Newport City,Hotelman08,I had breakfast at 6am and the eggs were cold and the rest of the food didn't look appealing.,-0.05,breakfast,NULL,Negative
+7,Pasay,Holiday Inn Express Manila Newport City,Ryan S,As others have noted the breakfast was barely palatable.,0.05,breakfast,Positive,NULL
+8,Pasay,Holiday Inn Express Manila Newport City,petersuzhou,"Room is OK, breakfast a bit weak, rest is all OK, but untrustworthy",0.208,breakfast,Positive,NULL
+9,Pasay,Holiday Inn Express Manila Newport City,kiwitripper64,Nice breakfast and then a taxi to terminal 4 as the shuttle doesnt go there.,0.6,breakfast,Positive,NULL
+10,Pasay,Holiday Inn Express Manila Newport City,drifter_bangalore,"the breakfast is terrible, hardly any spread for vegetarians.",-0.646,breakfast,NULL,Negative
+11,Pasay,Holiday Inn Express Manila Newport City,Steven C,"A nice size breakfast restaurant for buffet style, good breakfast, they also provide box breakfast to go for early or rushed travelers.",0.467,breakfast breakfast,Positive,NULL
+12,Pasay,Holiday Inn Express Manila Newport City,Leena T,"Large breakfast restaurant, good breakfast, they also give breakfast to go.",0.457,breakfast breakfast,Positive,NULL
+13,Pasay,Holiday Inn Express Manila Newport City,RetiredTraveller🌏,"It was surprisingly quiet, since the hotel was busy.",0.05,hotel,Positive,NULL
+14,Pasay,Holiday Inn Express Manila Newport City,Claudia R,"The hotel looks nice, huge lobby and people at reception are fast…",0.4,hotel,Positive,NULL
+15,Pasay,Holiday Inn Express Manila Newport City,jeoffsolas,"Since the area is very accessible to the airport, it's really a good hotel to stay.",0.538,hotel,Positive,NULL
+16,Pasay,Holiday Inn Express Manila Newport City,RetiredTraveller🌏,The hotel was a few steps away from a 7Eleven & other fast food restaurants.,0.2,hotel,Positive,NULL
+17,Pasay,Holiday Inn Express Manila Newport City,Rei Ann A,We enjoyed our stay in your hotel :).,0.5,hotel,Positive,NULL
+18,Pasay,Holiday Inn Express Manila Newport City,Godwithus07,"Anyway, I think that’s the best thing about this hotel is its location.",1.0,hotel,Positive,NULL
+19,Pasay,Holiday Inn Express Manila Newport City,kiwitripper64,"A gentle walk, back to the hotel and off for a comfortable sleep.",0.3,hotel,Positive,NULL
+20,Pasay,Holiday Inn Express Manila Newport City,kiwitripper64,Trip to the hotel quick and then we arrived.,0.333,hotel,Positive,NULL
+21,Pasay,Holiday Inn Express Manila Newport City,Ari a,This hotel is also a stones throw away from Newport Mall where you have good options for restaurants.,0.7,hotel,Positive,NULL
+22,Pasay,Holiday Inn Express Manila Newport City,Ari a,Have stayed at this hotel numerous times and is always a great value for money.,0.4,hotel,Positive,NULL
+23,Pasay,Holiday Inn Express Manila Newport City,Hotelman08,The hotel is next to a shopping center so I am sure there are a bunch of good food options around.,0.275,hotel,Positive,NULL
+24,Pasay,Holiday Inn Express Manila Newport City,petersuzhou,"Regardless of everything else, an international brand hotel should be able to give accurate information about its own shuttle service.",0.3,hotel,Positive,NULL
+25,Pasay,Holiday Inn Express Manila Newport City,RetiredTraveller🌏,The hotel is conveniently located next to the Manila NAIA Airport & they had a free airport hotel shuttle.,0.2,hotel airport hotel,Positive,NULL
+26,Pasay,Holiday Inn Express Manila Newport City,Tida T,"Lastly, if hotel can ensure that the room is 100% clean, without any kind of insects found in the room would be perfect.",0.492,hotel room room,Positive,NULL
+27,Pasay,Holiday Inn Express Manila Newport City,Hotelman08,"The room I had was on the small side, but had everything you need in the room.",-0.25,room,NULL,Negative
+28,Pasay,Holiday Inn Express Manila Newport City,nwbiztraveller,Appreciated the room slippers and bottle water.,0.2,room,Positive,NULL
+29,Pasay,Holiday Inn Express Manila Newport City,Voyager41254,Almost everything inside the room is perfect aside from being very clean and with a refreshing scent.,0.622,room,Positive,NULL
+30,Pasay,Holiday Inn Express Manila Newport City,ClareVS,Our room was clean and comfortable with all amenities required.,0.383,room,Positive,NULL
+31,Pasay,Holiday Inn Express Manila Newport City,Rei Ann A,The room is cozy and the breakfast buffet was a delight!,-0.2,room breakfast,NULL,Negative
+32,Pasay,Holiday Inn Express Manila Newport City,Leena T,Nice staff at the reseption desk.,0.6,staff,Positive,NULL
+33,Pasay,Holiday Inn Express Manila Newport City,jax2000,"Worse yet, there was little responsiveness by staff to provide any means of transportation.",-0.3,staff,NULL,Negative
+34,Pasay,Holiday Inn Express Manila Newport City,Hotelman08,The staff was very friendly and was able to accommodate my request.,0.438,staff,Positive,NULL
+35,Pasay,Holiday Inn Express Manila Newport City,Lance A,Very competent staff and clean room.,0.433,staff,Positive,NULL
+36,Pasay,Holiday Inn Express Manila Newport City,Fr. Bruce,"Even so, the staff are very nice and my thanks go to Grecelda for bearing with grumpy clients :->+ Enjoy, Fr.",0.4,staff,Positive,NULL
+37,Pasay,Holiday Inn Express Manila Newport City,F B,Unfortunately the very slow staff was not able to organize it properly - It just did not appear so we were stranded!,0.067,staff,Positive,NULL
+38,Pasay,Holiday Inn Express Manila Newport City,The_TravellerSg,Check in was relatively slow with only 1 staff for check in and 1 for check out.,-0.3,staff,NULL,Negative

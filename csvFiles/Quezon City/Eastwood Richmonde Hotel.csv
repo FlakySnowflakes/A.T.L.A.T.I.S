@@ -1,0 +1,38 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Quezon City,Eastwood Richmonde Hotel,Judz B,The breakfast buffet was super delicious.,0.667,breakfast,Positive,NULL
+1,Quezon City,Eastwood Richmonde Hotel,Barry D,"Tap was leaking, door didnt function well and breakfast very poor for 4 star.",-0.4,breakfast,NULL,Negative
+2,Quezon City,Eastwood Richmonde Hotel,Ogie Natividad,Decent breakfast buffet but it gets too crowded when there's a wedding in Eastwood.,0.167,breakfast,Positive,NULL
+3,Quezon City,Eastwood Richmonde Hotel,Robi L,The breakfast buffet offered a decent selection of delicious food for a filling breakfast.,0.583,breakfast,Positive,NULL
+4,Quezon City,Eastwood Richmonde Hotel,Justnitid,"Liked their breakfast buffet, which included a good selection of the local fare.",0.433,breakfast,Positive,NULL
+5,Quezon City,Eastwood Richmonde Hotel,Mina M,This is after lining up 1 hour for the breakfast buffet since the hotel is full packed.,0.35,breakfast hotel,Positive,NULL
+6,Quezon City,Eastwood Richmonde Hotel,Justnitid,The area is quite lively and the hotel does all the basics correctly.,0.068,hotel,Positive,NULL
+7,Quezon City,Eastwood Richmonde Hotel,Lexie,"Everything was smooth sailing, from the phone booking, up to the emails until we arrived at the hotel for checkin.",0.4,hotel,Positive,NULL
+8,Quezon City,Eastwood Richmonde Hotel,Robi L,"As a returning guest, I am continuously pleased with the quality of service that the hotel provides as well as the amenities that they provide.",0.5,hotel,Positive,NULL
+9,Quezon City,Eastwood Richmonde Hotel,Jay B,"My daughter was attending a social event in the city and since we lived in the suburbs, the eastwood richmonde hotel was an ideal choice.",0.467,hotel,Positive,NULL
+10,Quezon City,Eastwood Richmonde Hotel,KCiiee,What I love about this hotel is its accessibility to everywhere you wanna go.,0.5,hotel,Positive,NULL
+11,Quezon City,Eastwood Richmonde Hotel,KCiiee,this hotel has even an access on the 2nd floor straight to the mall!,0.1,hotel,Positive,NULL
+12,Quezon City,Eastwood Richmonde Hotel,Lexie,We are very disappointed since we stayed in this hotel because we wanted to swim and enjoy the day.,-0.175,hotel,NULL,Negative
+13,Quezon City,Eastwood Richmonde Hotel,Ludo-Owen,"Overall, the hotel  outdoors are better than the experience you get once inside.",0.25,hotel,Positive,NULL
+14,Quezon City,Eastwood Richmonde Hotel,doctorfoxtrot,This time I find the hotel a little tired.,-0.294,hotel,NULL,Negative
+15,Quezon City,Eastwood Richmonde Hotel,Global224778,"Stayed in 2 bedroom suite,it’s huge.Beds are comfortable  Would recommend this hotel for a wonderful holiday",0.6,hotel,Positive,NULL
+16,Quezon City,Eastwood Richmonde Hotel,Larahbee,This hotel is very overpriced and not worth the money!,0.3,hotel,Positive,NULL
+17,Quezon City,Eastwood Richmonde Hotel,magdaongcharmaine,It is a typical hotel in Manila but with a very cozy ambiance and a very accomodating staff.,-0.183,hotel,NULL,Negative
+18,Quezon City,Eastwood Richmonde Hotel,Travelosyo,"Of course, any hotel room with a bathtub will surely get a plus point from me.",0.5,hotel room,Positive,NULL
+19,Quezon City,Eastwood Richmonde Hotel,Jennifer G,"The hotel staff are so friendly, efficient and helpful.",0.375,hotel staff,Positive,NULL
+20,Quezon City,Eastwood Richmonde Hotel,Ogie Natividad,The living room area is nice but the couch and other furniture were old and worn out.,0.6,room,Positive,NULL
+21,Quezon City,Eastwood Richmonde Hotel,Kee Kah Wee,The room was great and all the toiletries provided were great.,0.8,room,Positive,NULL
+22,Quezon City,Eastwood Richmonde Hotel,Al Balderas,"Deluxe room and its amenities are good for me, except for the bathroom as I was able to check other rooms.",0.6,room,Positive,NULL
+23,Quezon City,Eastwood Richmonde Hotel,Robi L,The room itself was exceptionally clean & truly comfortable.,0.383,room,Positive,NULL
+24,Quezon City,Eastwood Richmonde Hotel,Larahbee,I have had better room accommodations and definitely faster elevators for less money.,0.25,room,Positive,NULL
+25,Quezon City,Eastwood Richmonde Hotel,VVIJ,"Rooms are basic, I was upgraded to a Superior room which was much larger but with the same amenities.",0.233,room,Positive,NULL
+26,Quezon City,Eastwood Richmonde Hotel,Ogie Natividad,The rooms are on the upper floors so the elevator ride and waiting time may be a bit longer than usual for…,-0.125,rooms,NULL,Negative
+27,Quezon City,Eastwood Richmonde Hotel,Jennifer G,Deluxe rooms are spacious (especially if you need to work) and well maintained/ very clean.,0.322,rooms,Positive,NULL
+28,Quezon City,Eastwood Richmonde Hotel,Barry D,"Unprofessional reception staff, rooms are outdated, smell is bad and the AC makes sound like a running aircraft engine.",-0.233,rooms,NULL,Negative
+29,Quezon City,Eastwood Richmonde Hotel,busydiver1959,Location is great but rooms are showing age.,0.8,rooms,Positive,NULL
+30,Quezon City,Eastwood Richmonde Hotel,JA Nelson,"The rooms were comfortable, although the hotel could use some overall upgrades.",0.2,rooms hotel,Positive,NULL
+31,Quezon City,Eastwood Richmonde Hotel,yburenna,The rooms are spacious (accessible only by keycard) & staff are very courteous.,0.488,rooms staff,Positive,NULL
+32,Quezon City,Eastwood Richmonde Hotel,Robi L,"All staff that we encountered from front desk, to the café and the security were courteous and polite.",0.6,staff,Positive,NULL
+33,Quezon City,Eastwood Richmonde Hotel,JA Nelson,My sincere thanks and appreciation to the staff for helping me have a wonderful stay in Manila,0.567,staff,Positive,NULL
+34,Quezon City,Eastwood Richmonde Hotel,rizza13fernandez,How can you teach your staff to be more attentive to guests if your in charge is like this?,0.4,staff,Positive,NULL
+35,Quezon City,Eastwood Richmonde Hotel,Jay B,":-)  It was a confortable stay, the rates are reasonable and their staff are vibrant and helpful.",0.183,staff,Positive,NULL
+36,Quezon City,Eastwood Richmonde Hotel,Judz B,"The staff was accommodating, the room was awesome not to mention the vicinity.",1.0,staff room,Positive,NULL

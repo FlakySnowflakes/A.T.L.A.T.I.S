@@ -1,0 +1,47 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Makati,Crown Regency Hotel Makati,LuisDavid1981,"On top of that, next morning i went to take the buffet breakfast and barely touched my food.",0.183,breakfast,Positive,NULL
+1,Makati,Crown Regency Hotel Makati,nhez,"also we love their food, buffet breakfast is not just the traditional Filipino breakfast.",0.25,breakfast,Positive,NULL
+2,Makati,Crown Regency Hotel Makati,Torome27,Bonus was that it included breakfast which was a pleasant surprise.,0.733,breakfast,Positive,NULL
+3,Makati,Crown Regency Hotel Makati,mobless,The breakfast was also okay as it was a continental breakfast so don’t expect anything more out of it.,0.5,breakfast breakfast,Positive,NULL
+4,Makati,Crown Regency Hotel Makati,Bill Y,The hotel is not far from from shopping and other conveniences so it is in a good location.,0.4,hotel,Positive,NULL
+5,Makati,Crown Regency Hotel Makati,Kimberly M,Unwelcoming and Rude hotel staff!,-0.3,hotel,NULL,Negative
+6,Makati,Crown Regency Hotel Makati,Mick,Stayed at this hotel for 2 nights and we both were fairly pleased.,0.5,hotel,Positive,NULL
+7,Makati,Crown Regency Hotel Makati,teemothyt,"The hotel experience was below average, the rooms were okay but the bathrooms were clearly not maintained.",0.15,hotel,Positive,NULL
+8,Makati,Crown Regency Hotel Makati,blessie,The truth was this was the worst hotel I ever stayed in the Philippines.,-1.0,hotel,NULL,Negative
+9,Makati,Crown Regency Hotel Makati,Pat B,"If you have a long flight and dream of a soak in  hot bath or shower, then this hotel is NOT for you.",0.1,hotel,Positive,NULL
+10,Makati,Crown Regency Hotel Makati,blessie,This hotel was not cheap at over P4K for one night - which was meant to be for a Superior room!.,0.55,hotel,Positive,NULL
+11,Makati,Crown Regency Hotel Makati,sevi,Very unique style and design of the hotel I like those painting on the hallway.,0.375,hotel,Positive,NULL
+12,Makati,Crown Regency Hotel Makati,Samfra,"The worst hotel stay ever in my life, and I have been in a few hundred hotels.",-1.0,hotel,NULL,Negative
+13,Makati,Crown Regency Hotel Makati,grisja,The worst choice of a hotel that I ever made!,-1.0,hotel,NULL,Negative
+14,Makati,Crown Regency Hotel Makati,Neil K,"This hotel goes above and beyond to make your stay comfortable, quiet, and relaxing.",0.2,hotel,Positive,NULL
+15,Makati,Crown Regency Hotel Makati,Neil K,"The hotel is a little small, but prices and service are great!",0.121,hotel,Positive,NULL
+16,Makati,Crown Regency Hotel Makati,BountyHunter121,All other hotels in the Philippines had done this out of good will however this hotel did not.,0.7,hotel,Positive,NULL
+17,Makati,Crown Regency Hotel Makati,blessie,This is one hotel that should have one big major renovation.,0.031,hotel,Positive,NULL
+18,Makati,Crown Regency Hotel Makati,rosaspandan,Truly sad since this hotel has prime location one block from Greenbelt; yet the deterioration is simply unacceptable.,-0.25,hotel location,NULL,Negative
+19,Makati,Crown Regency Hotel Makati,Angel Tuason Espinosa,The hotel itself is quite small but staff are nice.,0.175,hotel staff,Positive,NULL
+20,Makati,Crown Regency Hotel Makati,Bill Y,"A hotel with plenty of comfort, friendly staff willing to help and also clean and modern.",0.298,hotel staff,Positive,NULL
+21,Makati,Crown Regency Hotel Makati,nirmiv,Our first impression of the hotel was how friendly and welcoming the staff is.,0.312,hotel staff,Positive,NULL
+22,Makati,Crown Regency Hotel Makati,ScambusterSZ,It’s location is OK an a block from the entrance to the Malls.,0.5,location,Positive,NULL
+23,Makati,Crown Regency Hotel Makati,Cherie Mhel C,The location of the hotel was very accessible to malls and with lots of choices of restaurants nearby.,0.375,location hotel,Positive,NULL
+24,Makati,Crown Regency Hotel Makati,al22tecc,The statement of location location location applies to this establishment ONLY if the owners try to keep the place decently maintained.,0.167,location location location,Positive,NULL
+25,Makati,Crown Regency Hotel Makati,al22tecc,The room did not fare any better.,0.5,room,Positive,NULL
+26,Makati,Crown Regency Hotel Makati,BountyHunter121,"They did not let us check in until 1pm, despite the room being ready much earlier.",0.1,room,Positive,NULL
+27,Makati,Crown Regency Hotel Makati,10isPleyah,The room without any view was very clean and smelled really clean with white bed linens.,0.244,room,Positive,NULL
+28,Makati,Crown Regency Hotel Makati,LuisDavid1981,"My room was super small, cockroaches on the wall, smelly and dirty bathroom.",-0.172,room,NULL,Negative
+29,Makati,Crown Regency Hotel Makati,ScambusterSZ,We needed a room for 6 hrs before taking a 1am flight so we shower and change after coming from the hot sweaty Boracay.,0.25,room,Positive,NULL
+30,Makati,Crown Regency Hotel Makati,myownpower,"The room was small but very clean with several amenities... coffee, toothbrushes, soaps, etc.",0.039,room,Positive,NULL
+31,Makati,Crown Regency Hotel Makati,Cherie Mhel C,"The room was spacious but the bathroom was outdated, I hope the management will improve it.",-0.4,room,NULL,Negative
+32,Makati,Crown Regency Hotel Makati,BountyHunter121,"In addition, room was incredibly noisy.",0.9,room,Positive,NULL
+33,Makati,Crown Regency Hotel Makati,blessie,Our room (Rm 219) was noisy and dirty.,-0.6,room,NULL,Negative
+34,Makati,Crown Regency Hotel Makati,myownpower,I was not able to do it in my room but went to their facility around the corner.,0.5,room,Positive,NULL
+35,Makati,Crown Regency Hotel Makati,dieselman,No hot water in my room 311 for the 3 days.,0.25,room,Positive,NULL
+36,Makati,Crown Regency Hotel Makati,dieselman,7. room decor outdated 8. name is very misleading and not a crown brand at all.,-0.4,room,NULL,Negative
+37,Makati,Crown Regency Hotel Makati,Pat B,"Bath towels are good, room is old but clean, sleep quality good.",0.589,room,Positive,NULL
+38,Makati,Crown Regency Hotel Makati,blessie,The only chair in the room was broken and I very nearly didn't have a shower as the bathroom was also grotty.,-0.15,room,NULL,Negative
+39,Makati,Crown Regency Hotel Makati,mobless,Due to construction for renovations was upgraded to a better room so can’t give any comparison to room I booked.,0.188,room room,Positive,NULL
+40,Makati,Crown Regency Hotel Makati,Anne C,"Stayed here during New Years eve, staff were very accommodating for my requests in preparation for dinner.",0.136,staff,Positive,NULL
+41,Makati,Crown Regency Hotel Makati,ithink1234,The staff is not trained to take care of the customer nor provide the accurate reason for taking my credit card.,0.4,staff,Positive,NULL
+42,Makati,Crown Regency Hotel Makati,sevi,Very nice and friendly staff special kyle the front desk officer when we check in.,0.444,staff,Positive,NULL
+43,Makati,Crown Regency Hotel Makati,nhez,"Yes, the staff are friendly, always smiling and service conscious all throughout our 4days 3nights stay.",0.238,staff,Positive,NULL
+44,Makati,Crown Regency Hotel Makati,rosaspandan,"Very sad-- the good part, the staff are very friendly and accomodating and wifi worked.",0.192,staff,Positive,NULL
+45,Makati,Crown Regency Hotel Makati,blessie,"The staff on the other hand, were polite and friendly.",0.375,staff,Positive,NULL

@@ -1,0 +1,23 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Quezon City,Broadway Court Apartelle,Sylvain_Topping,"Your apartment hotel is very well located, close to public transportation, grocery stores, laundry facilities, restaurants and a large shopping mall.",0.107,hotel,Positive,NULL
+1,Quezon City,Broadway Court Apartelle,EVELYNdizon43,We will never forget our first experience in your hotel .,0.25,hotel,Positive,NULL
+2,Quezon City,Broadway Court Apartelle,live2vac,The hotel room is quite damp as there is a creek located right next to it.,0.143,hotel,Positive,NULL
+3,Quezon City,Broadway Court Apartelle,live2vac,It is a nice & quiet  hotel located in the good section of QC.,0.433,hotel,Positive,NULL
+4,Quezon City,Broadway Court Apartelle,nenagepuela,Secured place complete with security guard and a front desk.,0.1,place,Positive,NULL
+5,Quezon City,Broadway Court Apartelle,mavadakim,this apartment place is by far the best accomidations i have ever had  anywhere in the Philippines.,0.55,place,Positive,NULL
+6,Quezon City,Broadway Court Apartelle,mavadakim,"If you ever go to Manila ,need a place to stay ,dont want the crazy downtown traffic in your ear sleeping at night.",-0.6,place,NULL,Negative
+7,Quezon City,Broadway Court Apartelle,athame,It is the perfect place to stay if you want peace and quiet.,0.5,place,Positive,NULL
+8,Quezon City,Broadway Court Apartelle,shelob,The place is a near drive to the greenhills shopping area and midway to other areas in quezon city and manila.,0.1,place,Positive,NULL
+9,Quezon City,Broadway Court Apartelle,antsean,"I was slightly annoyed though as the pictures and description do ""dress the place up"" somewhat.",-0.4,place,NULL,Negative
+10,Quezon City,Broadway Court Apartelle,antsean,This place is ok if you are paying a flying visit for maybe one or 2 nights-3 at a push.,0.5,place,Positive,NULL
+11,Quezon City,Broadway Court Apartelle,mavadakim,but If you in manila  for any length of stay give this place first thoughts before you have to deal with the crazy hotels,-0.175,place,NULL,Negative
+12,Quezon City,Broadway Court Apartelle,mavadakim,"I normaly look for a place that 1 is affordable ,2 clean, 3 is close to shopping needs.",0.367,place,Positive,NULL
+13,Quezon City,Broadway Court Apartelle,Kurt L,"The Broadway Court is a quiet, clean place to stay for short or long stays.",0.079,place,Positive,NULL
+14,Quezon City,Broadway Court Apartelle,Gary92,"My first impression was how clean the property and rooms and walking areas are, as well as the front desk area.",0.308,rooms,Positive,NULL
+15,Quezon City,Broadway Court Apartelle,Sagalum,We have booked a total of 6 rooms for 1BHK and all has a just a praise words for the good accommodation they have.,0.35,rooms,Positive,NULL
+16,Quezon City,Broadway Court Apartelle,PogiXL,"This is a pleasant and quiet apartelle in a residential street in Quezon City, rooms show signs of age but staff are attentive and friendly.",0.377,rooms staff,Positive,NULL
+17,Quezon City,Broadway Court Apartelle,juanitak6,Laundry service is quick.,0.333,service,Positive,NULL
+18,Quezon City,Broadway Court Apartelle,duns123,The staff were helpful & friendly.,0.375,staff,Positive,NULL
+19,Quezon City,Broadway Court Apartelle,iceskatermama,The staff in the reception area at first didn't want to accept my booking confirmation from Asiatravel.,0.25,staff,Positive,NULL
+20,Quezon City,Broadway Court Apartelle,John B,"The staff there are great, all very friendly and helpful.",0.588,staff,Positive,NULL
+21,Quezon City,Broadway Court Apartelle,Gary92,The staff are all very friendly and helpful.,0.375,staff,Positive,NULL

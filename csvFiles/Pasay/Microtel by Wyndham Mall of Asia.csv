@@ -1,0 +1,42 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasay,Microtel by Wyndham Mall of Asia,Tastydogs,A very busy hotel that regularly sells out for Conventions at the centre across the road.,0.05,hotel,Positive,NULL
+1,Pasay,Microtel by Wyndham Mall of Asia,Sudhir K,"This is a very functional hotel with great location, right across Conrad Manila.",0.543,hotel,Positive,NULL
+2,Pasay,Microtel by Wyndham Mall of Asia,Jane,Most of the time you will come back to same hotel because you are well satisfied else just find same amenities with cheaper price.,0.5,hotel,Positive,NULL
+3,Pasay,Microtel by Wyndham Mall of Asia,Traveler684570,"Overall, still a very good hotel to stay in.",0.35,hotel,Positive,NULL
+4,Pasay,Microtel by Wyndham Mall of Asia,jjjoana,Overall a good hotel if you want to be close to the Mall of Asia.,0.35,hotel,Positive,NULL
+5,Pasay,Microtel by Wyndham Mall of Asia,shai26ph,The hotel is clean.,0.367,hotel,Positive,NULL
+6,Pasay,Microtel by Wyndham Mall of Asia,Lily Sy,It doesn't look great from exterior but this hotel will surely surprise you.,0.65,hotel,Positive,NULL
+7,Pasay,Microtel by Wyndham Mall of Asia,Sudhir K,"On the whole, this is a great hotel if you are touring the Manila Bay region for vacation or business.",0.5,hotel,Positive,NULL
+8,Pasay,Microtel by Wyndham Mall of Asia,chachalim,"The hotel is also beside NU MOA building which has great restaurant options as well, and Alfa Mart convenience store.",0.8,hotel,Positive,NULL
+9,Pasay,Microtel by Wyndham Mall of Asia,Sibuyandude,"Not to worry with the heavy traffic, the hotel was a perfect place for the delegates for the said professional gathering.",0.3,hotel,Positive,NULL
+10,Pasay,Microtel by Wyndham Mall of Asia,Ruben C,"The amenities were great, considering how busy was this hotel as the were fully booked because  of conference and shows nearby.",0.45,hotel,Positive,NULL
+11,Pasay,Microtel by Wyndham Mall of Asia,Kotan T,My first impression is that the hotel was located very close to SM Mall of Asia.,0.25,hotel,Positive,NULL
+12,Pasay,Microtel by Wyndham Mall of Asia,mscarms,Then only thing that is good about this is hotel is the location from Mall of Asia.,0.7,hotel location,Positive,NULL
+13,Pasay,Microtel by Wyndham Mall of Asia,JemmaPo,Service at the hotel was excellent and the staff was friendly and courteous to our requests for items and services to make our stay pleasant.,0.677,hotel staff,Positive,NULL
+14,Pasay,Microtel by Wyndham Mall of Asia,Traveler684570,"Perfect location - near the church , shopping mall, and restaurants.",0.55,location,Positive,NULL
+15,Pasay,Microtel by Wyndham Mall of Asia,Navigator5678,The location is great.,0.8,location,Positive,NULL
+16,Pasay,Microtel by Wyndham Mall of Asia,Dreamy7174,Very convenient location especially if you have an early flight.,0.2,location,Positive,NULL
+17,Pasay,Microtel by Wyndham Mall of Asia,Lucy B,"The room was spacious, had a great view of the Fun Fair on the Marina.",0.6,room,Positive,NULL
+18,Pasay,Microtel by Wyndham Mall of Asia,Meldhy,The only hassle we’ve experienced was that it took us 1hour before we got the room keys and check in.,0.4,room,Positive,NULL
+19,Pasay,Microtel by Wyndham Mall of Asia,Rex Ebuenga,ventilation from the room is good for sleeping.,0.7,room,Positive,NULL
+20,Pasay,Microtel by Wyndham Mall of Asia,Bea Carlota,"Also, it was a plus that our accommodation was upgraded with breakfast meals since the corner room wasn’t available.",0.4,room,Positive,NULL
+21,Pasay,Microtel by Wyndham Mall of Asia,chucklingstarfish,"If you’re a light sleeper and you have a room at the front facing the beachfront, the amusement park is…",0.4,room,Positive,NULL
+22,Pasay,Microtel by Wyndham Mall of Asia,chucklingstarfish,~The Room & Establishment~  The room was relatively basic in furnishings but clean.,0.183,room,Positive,NULL
+23,Pasay,Microtel by Wyndham Mall of Asia,shai26ph,We got a room with the bay view so it was nice.,0.6,room,Positive,NULL
+24,Pasay,Microtel by Wyndham Mall of Asia,chucklingstarfish,It seemed to be a room designed for wheelchair use (not sure if all rooms are similarly laid out but assume not).,0.25,room,Positive,NULL
+25,Pasay,Microtel by Wyndham Mall of Asia,Jane,Small things to make travellers smile but they disregard to cut expenses and for 120$ a night means the room is not that cheap.,0.034,room,Positive,NULL
+26,Pasay,Microtel by Wyndham Mall of Asia,Ruben C,"The room service attendants to Ed, thank you, you impressed us most for your exemplary job.",0.6,room service,Positive,NULL
+27,Pasay,Microtel by Wyndham Mall of Asia,Navigator5678,Customer service is great.,0.8,service,Positive,NULL
+28,Pasay,Microtel by Wyndham Mall of Asia,mscarms,"To start off, it was hard to reach their customer service through Expedia chat.",-0.292,service,NULL,Negative
+29,Pasay,Microtel by Wyndham Mall of Asia,Compass60616912587,The service is good.,0.7,service,Positive,NULL
+30,Pasay,Microtel by Wyndham Mall of Asia,Ruben C,We thought.it was newly renovated and the elevators were fast( 3 elevators to service all floors).,0.168,service,Positive,NULL
+31,Pasay,Microtel by Wyndham Mall of Asia,mscarms,"At that point, I was simply annoyed with the service of this hotel.",-0.4,service,NULL,Negative
+32,Pasay,Microtel by Wyndham Mall of Asia,Derek F,Horrible customer service at check-in.,-1.0,service,NULL,Negative
+33,Pasay,Microtel by Wyndham Mall of Asia,Bea Carlota,"The staff were friendly and nice, too!",0.488,staff,Positive,NULL
+34,Pasay,Microtel by Wyndham Mall of Asia,mackayinbedford,Reception - while the staff are friendly it took approximately 30mins waiting each time for check-in and check-out and was woefully slow.,-0.108,staff,NULL,Negative
+35,Pasay,Microtel by Wyndham Mall of Asia,jjjoana,I am not sure if the staff were really busy that day.,0.3,staff,Positive,NULL
+36,Pasay,Microtel by Wyndham Mall of Asia,Sudhir K,The staff are reasonably friendly.,0.375,staff,Positive,NULL
+37,Pasay,Microtel by Wyndham Mall of Asia,Dreamy7174,"Guards and desk staff are typical Filipino, smiling and helpful.",-0.167,staff,NULL,Negative
+38,Pasay,Microtel by Wyndham Mall of Asia,Navigator5678,"As long as staff makes you feel welcome and doesnt argue with you, you will come back.",0.375,staff,Positive,NULL
+39,Pasay,Microtel by Wyndham Mall of Asia,Navigator5678,Microtel's staff was really courteous and friendly.,0.488,staff,Positive,NULL
+40,Pasay,Microtel by Wyndham Mall of Asia,TonyVentura,The staff is friendly but not exceptional.,0.521,staff,Positive,NULL

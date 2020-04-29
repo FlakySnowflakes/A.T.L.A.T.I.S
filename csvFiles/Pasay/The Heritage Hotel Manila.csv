@@ -1,0 +1,33 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasay,The Heritage Hotel Manila,Lanie V,"The breakfast  buffet has a wide array of  flavors  & choices, which I find excellent.",0.45,breakfast,Positive,NULL
+1,Pasay,The Heritage Hotel Manila,Laura M,The breakfast buffet is great.,0.8,breakfast,Positive,NULL
+2,Pasay,The Heritage Hotel Manila,Louis C,Buffet breakfast is pretty standard and takes time for them to refill some foods.,0.125,breakfast,Positive,NULL
+3,Pasay,The Heritage Hotel Manila,stephenhrynczak20,breakfast  was excellent  with  many  choices.,0.75,breakfast,Positive,NULL
+4,Pasay,The Heritage Hotel Manila,stephenhrynczak20,the whole  hotel was  spacious with numerous  and  elegant  lifts.,0.233,hotel,Positive,NULL
+5,Pasay,The Heritage Hotel Manila,Che Teves,"Although the hotel is quite old and needs a make over, it still has its appeal - primarily its location and the staff.",0.4,hotel,Positive,NULL
+6,Pasay,The Heritage Hotel Manila,charles19572020,We decide for the next time to book an other hotel to compaire if for the same price 80€ we can not find better.,0.25,hotel,Positive,NULL
+7,Pasay,The Heritage Hotel Manila,BlessonVk,The hotel is ok. Room is big and good size but very bad service.,0.125,hotel,Positive,NULL
+8,Pasay,The Heritage Hotel Manila,Mr A,I do recommend this hotel and it is also family friendly.,0.375,hotel,Positive,NULL
+9,Pasay,The Heritage Hotel Manila,Mr A,Overall I liked my stay at this hotel and will recommend it to my friends as well as the people that will read this review.,0.3,hotel,Positive,NULL
+10,Pasay,The Heritage Hotel Manila,Khalid D,I have been visiting this hotel for past two years not very often but when I travel to Manila.,-0.25,hotel,NULL,Negative
+11,Pasay,The Heritage Hotel Manila,CM-Tokyo,I've been staying in this hotel if I want to be near the airport.,0.1,hotel,Positive,NULL
+12,Pasay,The Heritage Hotel Manila,sgilbo101392,Location for the hotel is perfect for Baclaran if you want to visit the market..,1.0,hotel,Positive,NULL
+13,Pasay,The Heritage Hotel Manila,EPascua,I will surely recommend this hotel to my friends…,0.5,hotel,Positive,NULL
+14,Pasay,The Heritage Hotel Manila,sgilbo101392,Staff at the hotel were so lovely and attentive.,0.45,hotel,Positive,NULL
+15,Pasay,The Heritage Hotel Manila,f1cq4bqee1080cdf2020,To be honest I understand that this hotel is not new but the room was so smelly it gave me headache the whole time.,0.312,hotel room,Positive,NULL
+16,Pasay,The Heritage Hotel Manila,Lanie V,The hotel has a free shuttle service to & from the mall.,0.4,hotel service,Positive,NULL
+17,Pasay,The Heritage Hotel Manila,sgilbo101392,Breakfast was very nice and the room was clean if not modern.,0.389,room,Positive,NULL
+18,Pasay,The Heritage Hotel Manila,david_swindon,"Check in and check out was efficient, the room was comfortable and clean and the WiFi worked fine.",0.394,room,Positive,NULL
+19,Pasay,The Heritage Hotel Manila,CM-Tokyo,There is a special check-in area for Club room guests in the 9th floor (where you can also check-out).,0.357,room,Positive,NULL
+20,Pasay,The Heritage Hotel Manila,CM-Tokyo,The room that I stayed is in perfect…,1.0,room,Positive,NULL
+21,Pasay,The Heritage Hotel Manila,Abner V. Pineda,The room is large enough for 1 night and bed is comfortable.,0.205,room,Positive,NULL
+22,Pasay,The Heritage Hotel Manila,charles19572020,"I book 2 times a before a room and they where ok, but not this time.",0.5,room,Positive,NULL
+23,Pasay,The Heritage Hotel Manila,Che Teves,Although we were not able to get our preferred room facing the pool but we got a 7th floor which was also ok.,0.5,room,Positive,NULL
+24,Pasay,The Heritage Hotel Manila,f1cq4bqee1080cdf2020,Overall it was okay but the room I just need to be cleaned as you can really smell the mould in the room.,0.25,room,Positive,NULL
+25,Pasay,The Heritage Hotel Manila,Hammer13,Only let down was the room service not good value for money,0.7,room service,Positive,NULL
+26,Pasay,The Heritage Hotel Manila,AnthonyBondoc06,Thank you very much for the outstanding service we had during our visit.,0.5,service,Positive,NULL
+27,Pasay,The Heritage Hotel Manila,catarinawagstaff,Horrible Customer service,-1.0,service,NULL,Negative
+28,Pasay,The Heritage Hotel Manila,Khalid D,"The beds are not comfortable, but the staff are very positive and courteous.",0.409,staff,Positive,NULL
+29,Pasay,The Heritage Hotel Manila,Hammer13,Great place to stay staff are brilliant very helpful caring and understanding looking after disabled clients.,0.5,staff,Positive,NULL
+30,Pasay,The Heritage Hotel Manila,Robert B,"the staff have great smiles with regard, helpful and kind, even the guards!",0.567,staff,Positive,NULL
+31,Pasay,The Heritage Hotel Manila,stephenhrynczak20,"staff were professional,friendly.facilities were superb.",0.492,staff,Positive,NULL

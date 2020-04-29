@@ -1,0 +1,43 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasig,The Exchange Regency Residence Hotel,James B,Me and my Girlfriend's family celebrated her birthday.,0.35,family,Positive,NULL
+1,Pasig,The Exchange Regency Residence Hotel,themessagefromth2018,I will certainly be staying here again with my family to try their facility especially the swimming pool.,0.107,family,Positive,NULL
+2,Pasig,The Exchange Regency Residence Hotel,RMari Diaz,I booked their 2 bedroom suite for a small family gathering and we enjoyed our stay.,0.125,family,Positive,NULL
+3,Pasig,The Exchange Regency Residence Hotel,Chen S C,Worst hotel stay in Manila.,-1.0,hotel,NULL,Negative
+4,Pasig,The Exchange Regency Residence Hotel,Myla I,This is the worst hotel that we've booked.,-1.0,hotel,NULL,Negative
+5,Pasig,The Exchange Regency Residence Hotel,Lorenzo Mercado,The hotel provided good quality service.,0.7,hotel,Positive,NULL
+6,Pasig,The Exchange Regency Residence Hotel,James B,This hotel was amazing!,0.6,hotel,Positive,NULL
+7,Pasig,The Exchange Regency Residence Hotel,Marie Cris D,Have an alloted parking for hotel guest which is free!,0.4,hotel,Positive,NULL
+8,Pasig,The Exchange Regency Residence Hotel,elit b,"But alas, the sanitation of the hotel has greatly deteriorated even amidst the covid 19 situation.",0.8,hotel,Positive,NULL
+9,Pasig,The Exchange Regency Residence Hotel,RMari Diaz,A convenient store is available beside the hotel and also has a few restaurant options.,0.4,hotel,Positive,NULL
+10,Pasig,The Exchange Regency Residence Hotel,Kathryn B.,This is our second time we book in this hotel with my family and again they never failed us.,0.125,hotel family,Positive,NULL
+11,Pasig,The Exchange Regency Residence Hotel,Sam M,This hotel is a must visit hotel specially for business travelers like me.,0.357,hotel hotel,Positive,NULL
+12,Pasig,The Exchange Regency Residence Hotel,Mark John,we stayed at this hotel and the room looks fine.,0.417,hotel room,Positive,NULL
+13,Pasig,The Exchange Regency Residence Hotel,Dalemonte15,The location was really convinient near 2 malls and has a convinience store below.,0.1,location,Positive,NULL
+14,Pasig,The Exchange Regency Residence Hotel,Rei Villacorta,The location is very accessible and the rates are affordable.,0.375,location,Positive,NULL
+15,Pasig,The Exchange Regency Residence Hotel,Mark John,"The location is good.. hotel staffs are really accomodating to security guards, front desk, housekeeping and maintenance.",0.7,location hotel,Positive,NULL
+16,Pasig,The Exchange Regency Residence Hotel,Xtian L.,The location of the hotel is quite close to my destination as well as some other business centers in the city.,-0.1,location hotel,NULL,Negative
+17,Pasig,The Exchange Regency Residence Hotel,Sammy Luis,I also checked their pool unfortunately it was closed when I stayed there because of the ashfall.,-0.1,pool,NULL,Negative
+18,Pasig,The Exchange Regency Residence Hotel,Dhalal G,Nice swimming pool and they also have jacuzzi and sauna!,0.6,pool,Positive,NULL
+19,Pasig,The Exchange Regency Residence Hotel,John Lester J,Dirty pool area.,-0.6,pool,NULL,Negative
+20,Pasig,The Exchange Regency Residence Hotel,Myla I,"Expect to share the elevator with the garbage, dirty laundry and half-naked Chinese guys coming from the pool who smelled like chlorine and cigarette smoke.",-0.192,pool,NULL,Negative
+21,Pasig,The Exchange Regency Residence Hotel,RMari Diaz,My siblings also enjoyed using the pool and the billiard table.,0.5,pool,Positive,NULL
+22,Pasig,The Exchange Regency Residence Hotel,Kent,That the pool would be temporarily unavailable because of the eruption but we still had loads of fun using other amenities.,0.3,pool,Positive,NULL
+23,Pasig,The Exchange Regency Residence Hotel,Kathryn B.,"And how they styles, the food are great and have a spacious pool and gym with billiard and sauna is a plus.",0.8,pool,Positive,NULL
+24,Pasig,The Exchange Regency Residence Hotel,Marianne Garcia,"Rooms are very clean, they also placed us in a room with a nice view.",0.483,room,Positive,NULL
+25,Pasig,The Exchange Regency Residence Hotel,James B,The room is very clean and comfortable.,0.383,room,Positive,NULL
+26,Pasig,The Exchange Regency Residence Hotel,Kathryn B.,Super wow in everything the room are clean and tidy.,0.35,room,Positive,NULL
+27,Pasig,The Exchange Regency Residence Hotel,Sam M,When we arrived at the room (Deluxe Twin) We were surprised!,0.35,room,Positive,NULL
+28,Pasig,The Exchange Regency Residence Hotel,Jan Paulo M,The game room was fun it had a billard table.,-0.05,room,NULL,Negative
+29,Pasig,The Exchange Regency Residence Hotel,LAquino01,"Premier room for Php4200 vs on its published rate, Php8000 seems to be a great deal.",0.8,room,Positive,NULL
+30,Pasig,The Exchange Regency Residence Hotel,LAquino01,"To our surprise, the room is not what we've expected.",-0.1,room,NULL,Negative
+31,Pasig,The Exchange Regency Residence Hotel,Lorenzo Mercado,The price for the room is cheap and reasonable.,0.3,room,Positive,NULL
+32,Pasig,The Exchange Regency Residence Hotel,John Alfred Lodronio,"It was also nice that our room was complete with a blower, a mini fridge and an electric kettle.",0.35,room,Positive,NULL
+33,Pasig,The Exchange Regency Residence Hotel,Dalemonte15,The room was spacious perfect for playing games with friends.,0.3,room,Positive,NULL
+34,Pasig,The Exchange Regency Residence Hotel,Nic Roxas,The room has some small cockroaches but it is fine.,0.083,room,Positive,NULL
+35,Pasig,The Exchange Regency Residence Hotel,RMari Diaz,The suite room is really spacious and basic kitchenware are available.,0.2,room,Positive,NULL
+36,Pasig,The Exchange Regency Residence Hotel,Allison S,The room is okay.,0.5,room,Positive,NULL
+37,Pasig,The Exchange Regency Residence Hotel,Rei Villacorta,Although the room we had was kind of outdated and also has cockroaches.. we still had fun staying at this hotel!,0.167,room,Positive,NULL
+38,Pasig,The Exchange Regency Residence Hotel,Sammy Luis,I booked their Deluxe Queen room and it had the basic amenities that I might need although I brought my own toiletries.,0.3,room,Positive,NULL
+39,Pasig,The Exchange Regency Residence Hotel,John Lester J,I also ask for room slippers it also took me 3 times before I was able to get that.,0.5,room,Positive,NULL
+40,Pasig,The Exchange Regency Residence Hotel,wandermanila,I have photo evidence of the actual room state with broken floors.,-0.2,room,NULL,Negative
+41,Pasig,The Exchange Regency Residence Hotel,Sam C,"I booked last january 2020 with my husband, luckily we got the room with perfect view, the room was simple yet cleaned.",0.333,room room,Positive,NULL

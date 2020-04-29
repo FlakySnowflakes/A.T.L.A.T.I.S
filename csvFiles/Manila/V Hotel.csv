@@ -1,0 +1,24 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Manila,V Hotel,Daryll T,"With free breakfast and Has a Rooftop Pool, Food in eat cafe is nice and with a reasonable price.",0.4,breakfast,Positive,NULL
+1,Manila,V Hotel,chriso1966,Fairly comfortable sleep the price includes breakfast   I previously said it wasn't worth getting out of bed for.,0.178,breakfast,Positive,NULL
+2,Manila,V Hotel,AngelRan15,Basic and same silog breakfast every morning but glad that there's unlimited coffee.,0.25,breakfast,Positive,NULL
+3,Manila,V Hotel,chriso1966,Breakfast included in hotel prices  however  not really much choice in my opinion not worth paying extra for if wasnt included .,0.15,hotel,Positive,NULL
+4,Manila,V Hotel,Tanvi K,Lovely lovely hotel with very helpful staff with exceptional services😊,0.556,hotel,Positive,NULL
+5,Manila,V Hotel,Tanvi K,One of the best hotel with beautiful view and beautiful smile of the receptionist Mercedes.,0.75,hotel,Positive,NULL
+6,Manila,V Hotel,awesomeryll,I think this hotel is not worth your money.,0.3,hotel,Positive,NULL
+7,Manila,V Hotel,David B,The pool was a nice added bonus and good value for money.,0.65,pool,Positive,NULL
+8,Manila,V Hotel,Sonny E,We went to the pool area and i love the view from there.,0.5,pool,Positive,NULL
+9,Manila,V Hotel,Jorane S,Big bonus with the swimming pool on the roof top!,0.25,pool,Positive,NULL
+10,Manila,V Hotel,Angel E,"Dont put your stuff on your towel near the pool or on the table, the wind will blow it away, phone went for a swim.",0.1,pool,Positive,NULL
+11,Manila,V Hotel,Marife,With pool at rooftop with a nice view.,0.6,pool,Positive,NULL
+12,Manila,V Hotel,Lola Nhorie,They offer budget room with wifi and free breakfast.,0.4,room,Positive,NULL
+13,Manila,V Hotel,Geminidreams,"The room was small, basic, no safe, no window and poor soundproofing.",-0.038,room,NULL,Negative
+14,Manila,V Hotel,Erick M,The room is very good just had some problem with shower head bracket.,0.7,room,Positive,NULL
+15,Manila,V Hotel,awesomeryll,We went to the front desk and paid extra to upgrade our room to a higher category.,0.125,room,Positive,NULL
+16,Manila,V Hotel,AngelRan15,We're much comfortable because the room is way bigger.,0.2,room,Positive,NULL
+17,Manila,V Hotel,AngelRan15,The wifi is not that strong when you're at the room but pretty fast in the cafe.,0.294,room,Positive,NULL
+18,Manila,V Hotel,SimonB,Just hope the room service people are not in the elevator with their trolley otherwise you will not fit in.,0.4,room,Positive,NULL
+19,Manila,V Hotel,Jorane S,"We spend one night in V Hotel, service was great, nice friendly staff and the room was really clean.",0.535,room,Positive,NULL
+20,Manila,V Hotel,Leonard J,The room is relatively small but functional.,-0.25,room,NULL,Negative
+21,Manila,V Hotel,awesomeryll,The room smells so bad.,-0.7,room,NULL,Negative
+22,Manila,V Hotel,Ivy S,"The room is smelly, smells like wet cabinets that did not dry off well.",-0.083,room,NULL,Negative

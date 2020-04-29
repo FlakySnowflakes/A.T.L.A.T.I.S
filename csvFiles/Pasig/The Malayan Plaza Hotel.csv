@@ -1,0 +1,36 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Pasig,The Malayan Plaza Hotel,Shellie Anne,Limited breakfast selection it…,-0.071,breakfast,NULL,Negative
+1,Pasig,The Malayan Plaza Hotel,Glory Anne,The complimentary breakfast buffet was so nice.,0.45,breakfast,Positive,NULL
+2,Pasig,The Malayan Plaza Hotel,Jane,The breakfast buffet  lounge is too small to accommodate guests and unless they really don’t want much visitors to come.,-0.25,breakfast,NULL,Negative
+3,Pasig,The Malayan Plaza Hotel,Benedict Bryan A,Room is spacious and clean while breakfast has a good spread of buffet.,0.533,breakfast,Positive,NULL
+4,Pasig,The Malayan Plaza Hotel,Mark Guilas,The breakfast was good and their housekeeping attendant was very helpful as well as their IT as we had a minor problem with the internet.,0.283,breakfast,Positive,NULL
+5,Pasig,The Malayan Plaza Hotel,Noel M,The staff were friendly and the food at the breakfast was terrific.The room was beautiful and well-equipped.,0.408,breakfast room,Positive,NULL
+6,Pasig,The Malayan Plaza Hotel,Stephanie K,It was a very nice hotel to stay to.,0.6,hotel,Positive,NULL
+7,Pasig,The Malayan Plaza Hotel,Glory Anne,It was our first time booking in this hotel for our staycation with family and it was really a great experience.,0.525,hotel,Positive,NULL
+8,Pasig,The Malayan Plaza Hotel,JCR,"We thought of staying in your hotel due to good reviews but since parking space is a crucial factor for travelers like us, we were SO DISAPPOINTED.",-0.044,hotel,NULL,Negative
+9,Pasig,The Malayan Plaza Hotel,Dan,You know the hotel has aged because of worn down items in rooms.,-0.1,hotel,NULL,Negative
+10,Pasig,The Malayan Plaza Hotel,Kagit1630,Traffic is so bad and we got to our hotel late at night.,-0.5,hotel,NULL,Negative
+11,Pasig,The Malayan Plaza Hotel,Armando,The hotel staffs are very friendly especially The Hotel Manager.,0.188,hotel,Positive,NULL
+12,Pasig,The Malayan Plaza Hotel,GMorta,"Value for money accommodations for a hotel located in a main business district, close to malls, restaurants, and offices.",0.167,hotel,Positive,NULL
+13,Pasig,The Malayan Plaza Hotel,Mike Martn,Spacious - the hotel tho has old amenities but the spacious room will give you comfortable stay.,0.4,hotel room,Positive,NULL
+14,Pasig,The Malayan Plaza Hotel,sasher_11,Nice hotel but rooms a bit basic but I was only there for two nights so not a problem.,0.3,hotel rooms,Positive,NULL
+15,Pasig,The Malayan Plaza Hotel,Shellie Anne,location are very good for shopping.,0.7,location,Positive,NULL
+16,Pasig,The Malayan Plaza Hotel,Mark Guilas,The location was very convenient as it is very near to different malls.,0.05,location,Positive,NULL
+17,Pasig,The Malayan Plaza Hotel,LorraineS,The location is very nice with a lot of malls in the vicinity as well as fast food and coffee shop.,0.4,location,Positive,NULL
+18,Pasig,The Malayan Plaza Hotel,John C,The location is very handy to a few shopping malls.,0.6,location,Positive,NULL
+19,Pasig,The Malayan Plaza Hotel,Armando,The location of this hotel is very good also coz it is in the center of business district.,0.3,location hotel,Positive,NULL
+20,Pasig,The Malayan Plaza Hotel,Glory Anne,"For the rate it is so reasonable, cause the location of the hotel is just near in everything.",0.15,location hotel,Positive,NULL
+21,Pasig,The Malayan Plaza Hotel,Belle W,I was impressed by the size of the room as it's like a 2 bedroom unit with walk-in closet and living room.,1.0,room,Positive,NULL
+22,Pasig,The Malayan Plaza Hotel,Analiza Vergara,"Im a bit surprise because the room was upgraded to a bigger room, it was spacious and cozy.",-0.1,room,NULL,Negative
+23,Pasig,The Malayan Plaza Hotel,Dream3242,The room attendant is very helpful.,0.2,room,Positive,NULL
+24,Pasig,The Malayan Plaza Hotel,Michael Kalaw,"the room was spacious, clean with comfy beds and hot/cold shower and bidet.",0.006,room,Positive,NULL
+25,Pasig,The Malayan Plaza Hotel,Belle W,I booked for a deluxe room and they even upgraded me to Suite!,0.6,room,Positive,NULL
+26,Pasig,The Malayan Plaza Hotel,Angeli R,"Furniture and room is already dated, and a bit dusty on closer inspection.",-0.4,room,NULL,Negative
+27,Pasig,The Malayan Plaza Hotel,Armando,"We have a very big, very nice room and very clean as well.",0.322,room,Positive,NULL
+28,Pasig,The Malayan Plaza Hotel,Uniquely Progre... A,"We got a room with ix beds, pantry area/ kitchenette, small dining ..and private bath.",-0.125,room,NULL,Negative
+29,Pasig,The Malayan Plaza Hotel,Glory Anne,"Though the room is a bit old style of interior, but still it is very clean & spacious.",0.367,room,Positive,NULL
+30,Pasig,The Malayan Plaza Hotel,Katie12dml,"Love the bed, room is complete and breakfast too !",0.3,room breakfast,Positive,NULL
+31,Pasig,The Malayan Plaza Hotel,sasher_11,I found it a bit strange though that when I asked for my room to be cleaned I had to leave my room keys with reception .,-0.025,room room,NULL,Negative
+32,Pasig,The Malayan Plaza Hotel,Jane,The room is clean and ok. Got a triple room suite for a new year.,0.334,room room,Positive,NULL
+33,Pasig,The Malayan Plaza Hotel,Dream3242,"The rooms we had were very spacious and very comfortable, though the hallways does not air condition.",0.4,rooms,Positive,NULL
+34,Pasig,The Malayan Plaza Hotel,John C,The rooms are spacious and the staff are very friendly and helpful.,0.375,rooms,Positive,NULL

@@ -1,0 +1,32 @@
+,city,hotel,reviewer,review,polarity,aspect_terms,P_sentiment,N_sentiment
+0,Makati,Hometown Hotel Makati - Edsa,Polly Jackson,Not far from the airport either.,0.1,airport,Positive,NULL
+1,Makati,Hometown Hotel Makati - Edsa,lavenderlilac v,It is not too far from the airport and my other destination.,0.1,airport,Positive,NULL
+2,Makati,Hometown Hotel Makati - Edsa,Jerduen D,Did I mention that the airport pick-up is wonderful?,1.0,airport,Positive,NULL
+3,Makati,Hometown Hotel Makati - Edsa,CoolDude2012,Its about 20min from the airport (taxi around 350 Pesos) but far from everything else.,0.1,airport,Positive,NULL
+4,Makati,Hometown Hotel Makati - Edsa,bellemonde,"not providing wifi outside reception area is unacceptable in these day and age where everyone needs internet, that's a major negative.",-0.079,area,NULL,Negative
+5,Makati,Hometown Hotel Makati - Edsa,Arad Hae Mercado Torres,Room is neat except that ants are busy crawling around the bathroom area of the room we had (Room B04).,0.1,area room,Positive,NULL
+6,Makati,Hometown Hotel Makati - Edsa,KarlAce,"Hometown's design is perfect for backpackers from its communal area, roof deck hangout/dining area to its room features.",1.0,area room,Positive,NULL
+7,Makati,Hometown Hotel Makati - Edsa,Jerduen D,"The hotel is new, have just opened a few weeks back.",0.136,hotel,Positive,NULL
+8,Makati,Hometown Hotel Makati - Edsa,KarlAce,This hotel strikes a good balance to one's stay when it comes to budget and quality.,0.7,hotel,Positive,NULL
+9,Makati,Hometown Hotel Makati - Edsa,CoolDude2012,"The hotel is a walk-up, so prepare for at least 2 flights of stairs from ground level.",-0.3,hotel,NULL,Negative
+10,Makati,Hometown Hotel Makati - Edsa,CoolDude2012,The hotel advised not to walk far and to take taxis everywhere.,0.1,hotel,Positive,NULL
+11,Makati,Hometown Hotel Makati - Edsa,BEEing_There,"On the line was someone from the hotel saying that ""UBER"" needed another 100 pesos due to traffic.",-0.125,hotel,NULL,Negative
+12,Makati,Hometown Hotel Makati - Edsa,Rowena Y,Hands down the best hotel I’ve ever stayed in!!,1.0,hotel,Positive,NULL
+13,Makati,Hometown Hotel Makati - Edsa,Ryshel,"Since the hotel is new, everything is nice.",0.368,hotel,Positive,NULL
+14,Makati,Hometown Hotel Makati - Edsa,JM T,"I have been to this hotel a few times already and I must say, that their service never faltered, it only got better.",0.5,hotel,Positive,NULL
+15,Makati,Hometown Hotel Makati - Edsa,b_kashan,It was a good budget  hostel/ hotel not  near to the tourist  attractions  or the restaurant .,0.4,hotel,Positive,NULL
+16,Makati,Hometown Hotel Makati - Edsa,bellemonde,The hotel aggregate rating is skewed by the better rated un-shared rooms.,0.5,hotel,Positive,NULL
+17,Makati,Hometown Hotel Makati - Edsa,Jerduen D,The secret weapon of this hotel is exceptional service!,0.133,hotel,Positive,NULL
+18,Makati,Hometown Hotel Makati - Edsa,poromanlady,Great new hotel just near the road side.,0.345,hotel,Positive,NULL
+19,Makati,Hometown Hotel Makati - Edsa,KarlAce,I highly recommend this budget hotel for its spacious bathroom and free iced tea at the lobby.,0.28,hotel,Positive,NULL
+20,Makati,Hometown Hotel Makati - Edsa,Polly Jackson,Super clean dorm room with air con and great bathroom.,0.5,room,Positive,NULL
+21,Makati,Hometown Hotel Makati - Edsa,Jerome T,The room is clean with daily housekeeping.,0.183,room,Positive,NULL
+22,Makati,Hometown Hotel Makati - Edsa,Jen,"(own lock required) also, there was no reading lights for the beds so if you wanted light, the whole room had to be lit.",0.333,room,Positive,NULL
+23,Makati,Hometown Hotel Makati - Edsa,Arad Hae Mercado Torres,Staff are very friendly except that our room is not yet prepared when we arrived so we waited for a couple of minutes.,0.375,room,Positive,NULL
+24,Makati,Hometown Hotel Makati - Edsa,Jerduen D,"I requested for an early check-in subject to room availability and there you go, my room is ready when I arrive at 7:30AM.",0.044,room room,Positive,NULL
+25,Makati,Hometown Hotel Makati - Edsa,Jerduen D,"All the staff are lovely, accommodating, and gave the best that they could to make my stay the best I can have.",0.833,staff,Positive,NULL
+26,Makati,Hometown Hotel Makati - Edsa,poromanlady,The staff are very friendly and will help you settle in well.,0.375,staff,Positive,NULL
+27,Makati,Hometown Hotel Makati - Edsa,Ryshel,The staff were friendly.,0.375,staff,Positive,NULL
+28,Makati,Hometown Hotel Makati - Edsa,Jen,The staff was super nice and helpful.,0.467,staff,Positive,NULL
+29,Makati,Hometown Hotel Makati - Edsa,bellemonde,"No amount of staff friendliness can offset this, it's not difficult to fix.",-0.5,staff,NULL,Negative
+30,Makati,Hometown Hotel Makati - Edsa,lavenderlilac v,"Anyway, hoping they would improve their facilities a the staff are very nice.",0.6,staff,Positive,NULL

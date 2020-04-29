@@ -3,6 +3,7 @@ import numpy as np
 from nltk import sent_tokenize
 from nltk.corpus import stopwords
 from textblob import TextBlob, Word
+from sqlalchemy import create_engine
 
 # Reads each line in txt and append them in array
 with open('Lexicon/other_stopwords.txt') as f:
@@ -13,8 +14,16 @@ with open('Lexicon/negative-words.txt') as f:
     neg_words = [line.strip() for line in f]
 
 
-def filter_review(df, hotel_name):
-    other_stopwords.append(hotel_name)
+def hotel_stopwords(hotel_name):
+    other_stopwords.extend(hotel_name.lower().split())
+    try:
+        other_stopwords.remove('hotel')
+    except:
+        pass
+
+
+def filter_review(df, hotel_name, city):
+    hotel_stopwords(hotel_name)
     df = div_sentences(df)  # Seperates sentences of a content review
     # Lowercase each words from the reviews
     df['lowercase'] = df['review'].apply(lambda x: " ".join(word.lower() for word in x.split()))
@@ -22,22 +31,22 @@ def filter_review(df, hotel_name):
     df['punctuation'] = df['lowercase'].str.replace('[^\w\s]', ' ')
     # Remove all stopwords (such as 'i', 'we', 'they', 'us', etc in nltk.stopwords)
     stop_words = stopwords.words('english')
-    df['no_stopwords'] = df['punctuation'].apply(lambda x: " ".join(
+    df['stopwords'] = df['punctuation'].apply(lambda x: " ".join(
         word for word in x.split() if word not in stop_words and word not in other_stopwords))
     # Lemmatization
-    df['lemmatize'] = df['no_stopwords'].apply(
+    df['lemmatize'] = df['stopwords'].apply(
         lambda x: " ".join(Word(word).lemmatize() for word in x.split()))
     # if there are still unnecessary common words, custom stopwords will be added
-    df['cleanreview'] = df['no_stopwords'].apply(lambda x: " ".join(
+    df['cleanreview'] = df['stopwords'].apply(lambda x: " ".join(
         word for word in x.split() if word not in pos_words and word not in neg_words))
-    # Get the most common word used in each reviews. # 5 most used words
-    keywords = pd.Series(" ".join(df['cleanreview']).split()).value_counts()[:5]
-    with open('keywords/' + hotel_name + "_keywords.txt", "w") as keys:
-        keys.write(str(keywords))
+    # Get the most and least common word used in each reviews.
+    keywords = KeysandRares(df, hotel_name, city)
     # Get the Sentimental Analysis
     df = sentiment(df, keywords)
+    # with open('csvFiles/corpus1.csv', 'a') as f:
+    #     df.to_csv(f, header=f.tell() == 0, na_rep='NULL')
     # Drop unnecessary columns
-    df.drop(['lowercase', 'punctuation', 'no_stopwords',
+    df.drop(['lowercase', 'punctuation', 'stopwords',
              'lemmatize', 'cleanreview'], axis=1, inplace=True)
 
     return df
@@ -46,10 +55,12 @@ def filter_review(df, hotel_name):
 def div_sentences(df):
     # Seperating the sentences from a review
     df['Sentences'] = df['review'].apply(lambda x: sent_tokenize(str(x)))
-    df2 = df.filter(['hotel', 'reviewer', 'Sentences'], axis=1)
-    # df2 = pd.DataFrame({'reviewer': df.reviewer.repeat(
-    # df.Sentences.str.len()), 'review': np.concatenate(df.Sentences.values)})
+    # create new DataFrame to organize each column
+    df2 = df.filter(['city', 'hotel', 'reviewer', 'Sentences'], axis=1)
     df2 = df2.explode('Sentences')
+    # Remove sentences with more than 25 words
+    count = df2['Sentences'].astype(str).str.split().str.len()
+    df2 = df2[~(count > 27)]
     df2.reset_index(drop=True, inplace=True)
     df2.rename({'Sentences': 'review'}, axis=1, inplace=True)
     # returns all sentences to filter each
@@ -59,7 +70,8 @@ def div_sentences(df):
 def sentiment(df, keywords):
     # Sentiment Analysis
     df['polarity'] = df['lemmatize'].apply(lambda x: TextBlob(x).sentiment[0])
-    # Get reviews that has a word from most commonly used words (keywords)
+    # Get reviews that has words from most commonly used words (keywords)
+    # This excludes words from least commonly used words
     df['aspect_terms'] = df['review'].apply(lambda x: " ".join(
         word for word in x.split() if word in keywords))
     df.replace('', np.nan, inplace=True)  # Replace all empty string of cells with NaN or Null
@@ -83,12 +95,15 @@ def positives(x):
 
 
 def negatives(x):
-    if x['polarity'] < 0:
+    if x['polarity'] < -0:
         return 'Negative'
     return ''
 
-# def Sentimental(x):
-#     if x['polarity'] > 0:
-#         return 'Positive'
-#     else:
-#         return 'Negative'
+
+def KeysandRares(df, hotel_name, city):
+    keys = pd.Series(" ".join(df['cleanreview']).split()).value_counts()[:5]  # 5 most common words
+    # rares = pd.Series(" ".join(df['cleanreview']).split()
+    #                   ).value_counts()[-5]  # 5 least common words
+    engine = create_engine('sqlite:///keywords/' + city + '_keywords.db')
+    keys.to_sql(name=hotel_name, con=engine, if_exists='append')
+    return keys

@@ -232,7 +232,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "GoTellHotel"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "GoTellHotels"))
         self.label.setText(_translate("MainWindow", "List of Hotels:"))
         self.pushButton.setText(_translate("MainWindow", "Admin"))
         self.progressBar.setFormat(_translate("MainWindow", "%p%"))

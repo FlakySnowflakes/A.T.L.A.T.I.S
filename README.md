@@ -4,7 +4,7 @@
 GoTellHotels is a python based application that uses webscrape machine learning and natural language processing to generate a human-understandable and browsable summary of the opinions expressed in a collection of TripAdvisor reviews about a particular hotel. GoTellHotel aims to summarize each review in terms of sentiments and aspects towards a hotel. For example, a user reviews a hotel with "...The rooms are nice and cozy.", GoTellHotel will use 'rooms' as a key term and determine the user's sentiment by using TextBlob's polarity (You can check TextBlob [here](https://tinyurl.com/y84hdx8b)).
 
 <p align="center">
-<img src="images/GoTellHotels-window.png" width="600" height="400">
+<img src="images/GoTellHotels-window.png" width="600" height="450">
 </p>
 
 
@@ -13,8 +13,8 @@ GoTellHotels shows a sample list of cities in the Philippines so that each hotel
 The items in popular mentions are 'aspects' that GoTellHotels extracted from the reviews. These are the most commonly used words that reviewers mention when reviewing a certain hotel. When an aspect is selected, GoTellHotel displays the sentiments of reviewers towards that aspect. The two progress bar shows the overall number of positive and negative sentiments in terms of percentage. 
 
 <p align="center">
-<img src="images/Login_to_admin.png" width="400" height="300">
-<img src="images/admin_window.png" width="400" height="300">    
+<img src="images/Login_to_admin.png" width="400" height="320">
+<img src="images/admin_window.png" width="400" height="320">    
 </p>
 
 The left figure shows a login window for admins only. If a user successfuly login, the user can access the admin window (right figure) where they can add hotels within the domain of TripAdvisor. Adding hotels outside the domain of TripAdvisor will not work. GoTellHotels does not provide further modifications on the added hotels directly to the database, however, using DB Browser is possible for modification of added hotels within the existed databases.
